@@ -1,0 +1,1401 @@
+fecha,comercial,cliente,zona,unidades,importe
+2025-01-01,Laura Gómez,Visión Central (Madrid),Madrid,7,454.11
+2025-01-01,Laura Gómez,Gafas Real (Madrid),Madrid,4,297.14
+2025-01-01,Marc Puig,Visión Norte (Sabadell),Cataluña,3,361.68
+2025-01-01,Sofía Ruiz,Gafas Clara (Granada),Andalucía,6,404.17
+2025-01-02,Marc Puig,Ópticas Clara (Sabadell),Cataluña,2,182.97
+2025-01-02,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,25,1592.08
+2025-01-02,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,11,1062.66
+2025-01-06,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,5,421.16
+2025-01-06,Marc Puig,Gafas Plaza (Barcelona),Cataluña,3,265.45
+2025-01-06,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,2,211.56
+2025-01-07,Laura Gómez,Gafas del Mar (Alcalá),Madrid,6,459.55
+2025-01-07,Laura Gómez,Ópticas Plaza (Madrid),Madrid,5,415.63
+2025-01-07,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,1,97.24
+2025-01-07,Marc Puig,Visión Norte (Sabadell),Cataluña,3,285.33
+2025-01-07,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,9,744.16
+2025-01-07,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,6,582.56
+2025-01-07,Javier Martín,Gafas Nueva (Alicante),Levante,3,236.03
+2025-01-07,Javier Martín,Óptica Sol (Alicante),Levante,11,1054.26
+2025-01-07,Javier Martín,Centro Óptico Mirada (Valencia),Levante,18,1431.62
+2025-01-08,Laura Gómez,Visión Central (Madrid),Madrid,2,207.6
+2025-01-08,Laura Gómez,Gafas del Mar (Alcalá),Madrid,14,1009.29
+2025-01-08,Marc Puig,Óptica Avenida (Girona),Cataluña,3,288.5
+2025-01-09,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,1,168.35
+2025-01-09,Marc Puig,Visión Norte (Sabadell),Cataluña,9,661.84
+2025-01-09,Marc Puig,Óptica Avenida (Girona),Cataluña,3,200.84
+2025-01-09,Marc Puig,Óptica Prisma (Barcelona),Cataluña,1,151.29
+2025-01-09,Sofía Ruiz,Óptica Azul (Granada),Andalucía,2,140.64
+2025-01-09,Javier Martín,Óptica Sol (Alicante),Levante,5,438.28
+2025-01-10,Marc Puig,Ópticas Central (Barcelona),Cataluña,2,246.25
+2025-01-10,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,3,268.05
+2025-01-10,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,14,1298.23
+2025-01-10,Javier Martín,Visión Azul (Castellón),Levante,5,431.58
+2025-01-13,Laura Gómez,Visión Clara (Getafe),Madrid,7,587.43
+2025-01-13,Laura Gómez,Gafas Real (Madrid),Madrid,7,460.37
+2025-01-14,Laura Gómez,Ópticas Luna (Alcalá),Madrid,13,848.27
+2025-01-14,Marc Puig,Ópticas Central (Barcelona),Cataluña,3,237.2
+2025-01-14,Marc Puig,Gafas Plaza (Barcelona),Cataluña,3,250.31
+2025-01-15,Marc Puig,Gafas Plaza (Barcelona),Cataluña,6,485.7
+2025-01-16,Marc Puig,Visión Norte (Sabadell),Cataluña,3,307.91
+2025-01-16,Marc Puig,Óptica Avenida (Girona),Cataluña,3,248.63
+2025-01-16,Sofía Ruiz,Ópticas Nueva (Málaga),Andalucía,4,359.96
+2025-01-17,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,4,240.64
+2025-01-17,Marc Puig,Visión Norte (Sabadell),Cataluña,7,440.14
+2025-01-17,Marc Puig,Óptica Prisma (Barcelona),Cataluña,4,283.46
+2025-01-20,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,6,422.64
+2025-01-20,Javier Martín,Centro Óptico Lux (Alicante),Levante,7,561.58
+2025-01-22,Laura Gómez,Visión Central (Madrid),Madrid,5,484.65
+2025-01-22,Laura Gómez,Ópticas Plaza (Madrid),Madrid,1,135.72
+2025-01-22,Sofía Ruiz,Ópticas Nueva (Málaga),Andalucía,2,196.74
+2025-01-22,Javier Martín,Óptica Iris (Castellón),Levante,10,713.14
+2025-01-23,Laura Gómez,Visión Central (Madrid),Madrid,5,538.88
+2025-01-23,Marc Puig,Gafas Plaza (Barcelona),Cataluña,1,111.28
+2025-01-23,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,1,95.03
+2025-01-23,Javier Martín,Gafas Nueva (Alicante),Levante,2,130.65
+2025-01-24,Laura Gómez,Visión Central (Madrid),Madrid,1,151.92
+2025-01-24,Laura Gómez,Gafas del Mar (Alcalá),Madrid,5,541.01
+2025-01-24,Laura Gómez,Ópticas Plaza (Madrid),Madrid,10,792.89
+2025-01-24,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,6,483.12
+2025-01-27,Laura Gómez,Gafas del Mar (Alcalá),Madrid,20,1191.79
+2025-01-27,Marc Puig,Visión Norte (Sabadell),Cataluña,6,383.48
+2025-01-27,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,9,618.38
+2025-01-27,Javier Martín,Óptica Sol (Alicante),Levante,5,373.32
+2025-01-28,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,12,702.09
+2025-01-28,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,8,522.95
+2025-01-28,Javier Martín,Gafas Faro (Valencia),Levante,5,486.02
+2025-01-29,Laura Gómez,Gafas Real (Madrid),Madrid,3,296.65
+2025-01-29,Marc Puig,Visión Nueva (Girona),Cataluña,8,632.75
+2025-01-30,Laura Gómez,Gafas Real (Madrid),Madrid,1,69.48
+2025-01-30,Marc Puig,Ópticas Central (Barcelona),Cataluña,2,220.55
+2025-01-30,Sofía Ruiz,Gafas Clara (Granada),Andalucía,7,428.19
+2025-01-30,Javier Martín,Óptica Sol (Alicante),Levante,6,575.87
+2025-01-31,Laura Gómez,Visión Clara (Getafe),Madrid,1,113.21
+2025-01-31,Marc Puig,Visión Norte (Sabadell),Cataluña,5,479.28
+2025-01-31,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,8,506.67
+2025-02-03,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,6,543.36
+2025-02-03,Sofía Ruiz,Óptica Azul (Granada),Andalucía,3,256.74
+2025-02-03,Javier Martín,Ópticas Prisma (Valencia),Levante,10,744.84
+2025-02-03,Javier Martín,Gafas Faro (Valencia),Levante,4,304.36
+2025-02-03,Javier Martín,Óptica Sol (Alicante),Levante,6,520.33
+2025-02-04,Marc Puig,Ópticas Central (Barcelona),Cataluña,1,147.83
+2025-02-06,Marc Puig,Ópticas Central (Barcelona),Cataluña,11,619.3
+2025-02-06,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,5,400.82
+2025-02-06,Javier Martín,Visión Azul (Castellón),Levante,10,698.1
+2025-02-07,Marc Puig,Ópticas Central (Barcelona),Cataluña,6,360.83
+2025-02-07,Sofía Ruiz,Óptica Azul (Granada),Andalucía,22,1425.89
+2025-02-07,Javier Martín,Ópticas Luna (Castellón),Levante,10,942.68
+2025-02-10,Laura Gómez,Gafas del Mar (Alcalá),Madrid,4,415.07
+2025-02-10,Javier Martín,Ópticas Luna (Castellón),Levante,6,500.82
+2025-02-11,Laura Gómez,Visión Central (Madrid),Madrid,1,153.27
+2025-02-11,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,12,1078.9
+2025-02-11,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,8,775.42
+2025-02-11,Sofía Ruiz,Gafas Clara (Granada),Andalucía,6,388.14
+2025-02-11,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,15,976.39
+2025-02-11,Sofía Ruiz,Óptica Azul (Granada),Andalucía,12,861.88
+2025-02-11,Javier Martín,Visión Real (Valencia),Levante,5,393.75
+2025-02-11,Javier Martín,Centro Óptico Mirada (Valencia),Levante,8,703.83
+2025-02-12,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,10,801.04
+2025-02-12,Javier Martín,Visión Azul (Castellón),Levante,7,460.18
+2025-02-13,Laura Gómez,Óptica Sol (Madrid),Madrid,10,697.49
+2025-02-13,Laura Gómez,Gafas del Mar (Alcalá),Madrid,7,509.66
+2025-02-13,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,9,772.06
+2025-02-14,Laura Gómez,Ópticas Luna (Alcalá),Madrid,26,1779.42
+2025-02-14,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,1,96.06
+2025-02-14,Sofía Ruiz,Óptica Azul (Granada),Andalucía,20,1422.11
+2025-02-17,Laura Gómez,Ópticas Luna (Alcalá),Madrid,16,957.96
+2025-02-17,Laura Gómez,Gafas del Mar (Alcalá),Madrid,9,664.04
+2025-02-17,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,16,1334.11
+2025-02-17,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,10,887.71
+2025-02-18,Laura Gómez,Óptica Norte (Getafe),Madrid,4,358.65
+2025-02-18,Marc Puig,Óptica Prisma (Barcelona),Cataluña,3,265.6
+2025-02-18,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,4,321.46
+2025-02-18,Sofía Ruiz,Óptica Azul (Granada),Andalucía,13,838.3
+2025-02-19,Marc Puig,Gafas Iris (Sabadell),Cataluña,3,302.59
+2025-02-19,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,12,1035.04
+2025-02-19,Javier Martín,Visión Real (Valencia),Levante,2,145.8
+2025-02-19,Javier Martín,Centro Óptico Lux (Alicante),Levante,7,551.41
+2025-02-19,Javier Martín,Centro Óptico Mirada (Valencia),Levante,6,549.36
+2025-02-20,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,19,1463.1
+2025-02-20,Marc Puig,Ópticas Central (Barcelona),Cataluña,5,371.39
+2025-02-20,Javier Martín,Gafas Nueva (Alicante),Levante,7,508.85
+2025-02-20,Javier Martín,Gafas Faro (Valencia),Levante,5,463.77
+2025-02-21,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,7,737.47
+2025-02-21,Marc Puig,Ópticas Clara (Sabadell),Cataluña,1,146.01
+2025-02-21,Sofía Ruiz,Visión Avenida (Málaga),Andalucía,6,443.05
+2025-02-21,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,15,993.39
+2025-02-24,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,32,2517.82
+2025-02-24,Marc Puig,Visión Nueva (Girona),Cataluña,4,389.29
+2025-02-24,Marc Puig,Óptica Prisma (Barcelona),Cataluña,4,384.88
+2025-02-24,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,1,133.36
+2025-02-25,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,3,238.72
+2025-02-25,Javier Martín,Gafas Nueva (Alicante),Levante,3,237.49
+2025-02-25,Javier Martín,Óptica Sol (Alicante),Levante,2,253.78
+2025-02-26,Laura Gómez,Gafas Real (Madrid),Madrid,4,442.23
+2025-02-26,Marc Puig,Ópticas Central (Barcelona),Cataluña,3,340.59
+2025-02-26,Marc Puig,Óptica Prisma (Barcelona),Cataluña,2,182.43
+2025-02-26,Javier Martín,Gafas Nueva (Alicante),Levante,11,705.42
+2025-02-26,Javier Martín,Centro Óptico Mirada (Valencia),Levante,4,254.62
+2025-02-27,Laura Gómez,Visión Central (Madrid),Madrid,5,408.68
+2025-02-27,Laura Gómez,Gafas Real (Madrid),Madrid,3,267.74
+2025-02-27,Javier Martín,Visión Real (Valencia),Levante,4,249.49
+2025-02-28,Laura Gómez,Visión Clara (Getafe),Madrid,1,91.09
+2025-02-28,Marc Puig,Ópticas Central (Barcelona),Cataluña,2,217.15
+2025-02-28,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,9,804.45
+2025-02-28,Javier Martín,Centro Óptico Lux (Alicante),Levante,16,1050.73
+2025-02-28,Javier Martín,Óptica Sol (Alicante),Levante,14,1172.2
+2025-03-03,Laura Gómez,Óptica Sol (Madrid),Madrid,13,946.76
+2025-03-03,Marc Puig,Ópticas Central (Barcelona),Cataluña,7,615.47
+2025-03-03,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,4,377.51
+2025-03-04,Laura Gómez,Gafas del Mar (Alcalá),Madrid,5,495.1
+2025-03-04,Javier Martín,Visión Real (Valencia),Levante,5,464.83
+2025-03-04,Javier Martín,Visión Azul (Castellón),Levante,4,270.76
+2025-03-04,Javier Martín,Ópticas Luna (Castellón),Levante,6,457.23
+2025-03-06,Javier Martín,Óptica Iris (Castellón),Levante,25,1952.1
+2025-03-06,Javier Martín,Ópticas Prisma (Valencia),Levante,11,850.76
+2025-03-07,Javier Martín,Visión Real (Valencia),Levante,3,304.92
+2025-03-07,Javier Martín,Ópticas Luna (Castellón),Levante,3,221.69
+2025-03-10,Laura Gómez,Gafas del Mar (Alcalá),Madrid,5,394.68
+2025-03-10,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,15,1389.64
+2025-03-10,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,10,602.91
+2025-03-11,Sofía Ruiz,Óptica Azul (Granada),Andalucía,4,276.13
+2025-03-12,Laura Gómez,Visión Central (Madrid),Madrid,16,978.28
+2025-03-12,Laura Gómez,Ópticas Plaza (Madrid),Madrid,1,98.36
+2025-03-12,Laura Gómez,Visión Clara (Getafe),Madrid,5,436.14
+2025-03-12,Sofía Ruiz,Gafas Clara (Granada),Andalucía,25,2300.9
+2025-03-13,Laura Gómez,Óptica Sol (Madrid),Madrid,27,1657.55
+2025-03-13,Laura Gómez,Visión Central (Madrid),Madrid,5,385.22
+2025-03-13,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,6,456.5
+2025-03-14,Laura Gómez,Ópticas Plaza (Madrid),Madrid,8,596.89
+2025-03-14,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,5,456.09
+2025-03-17,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,6,638.0
+2025-03-17,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,7,527.55
+2025-03-17,Javier Martín,Óptica Iris (Castellón),Levante,15,1035.06
+2025-03-18,Laura Gómez,Ópticas Plaza (Madrid),Madrid,11,657.52
+2025-03-18,Laura Gómez,Visión Clara (Getafe),Madrid,4,324.19
+2025-03-18,Marc Puig,Óptica Avenida (Girona),Cataluña,11,921.0
+2025-03-18,Javier Martín,Gafas Nueva (Alicante),Levante,6,386.69
+2025-03-18,Javier Martín,Centro Óptico Mirada (Valencia),Levante,15,1138.83
+2025-03-19,Laura Gómez,Centro Óptico Mirada (Getafe),Madrid,7,728.56
+2025-03-19,Marc Puig,Visión Norte (Sabadell),Cataluña,32,2576.34
+2025-03-20,Laura Gómez,Ópticas Plaza (Madrid),Madrid,22,1655.65
+2025-03-20,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,17,1383.11
+2025-03-20,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,16,1030.43
+2025-03-24,Laura Gómez,Gafas del Mar (Alcalá),Madrid,20,1573.65
+2025-03-24,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,22,1461.44
+2025-03-24,Javier Martín,Gafas Nueva (Alicante),Levante,7,631.27
+2025-03-24,Javier Martín,Ópticas Luna (Castellón),Levante,8,691.95
+2025-03-24,Javier Martín,Centro Óptico Mirada (Valencia),Levante,6,535.77
+2025-03-25,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,14,1184.95
+2025-03-25,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,5,457.31
+2025-03-25,Sofía Ruiz,Visión Avenida (Málaga),Andalucía,18,1293.12
+2025-03-26,Laura Gómez,Ópticas Luna (Alcalá),Madrid,16,1201.09
+2025-03-26,Laura Gómez,Visión Clara (Getafe),Madrid,20,1359.97
+2025-03-26,Laura Gómez,Gafas Real (Madrid),Madrid,4,303.12
+2025-03-26,Marc Puig,Gafas Plaza (Barcelona),Cataluña,16,1325.03
+2025-03-26,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,16,1459.02
+2025-03-27,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,3,176.29
+2025-03-27,Marc Puig,Gafas Plaza (Barcelona),Cataluña,15,978.52
+2025-03-27,Javier Martín,Ópticas Prisma (Valencia),Levante,20,1358.33
+2025-03-31,Laura Gómez,Centro Óptico Mirada (Getafe),Madrid,6,418.52
+2025-03-31,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,11,660.31
+2025-04-01,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,9,559.66
+2025-04-02,Laura Gómez,Gafas Real (Madrid),Madrid,5,451.07
+2025-04-02,Javier Martín,Ópticas Prisma (Valencia),Levante,12,889.31
+2025-04-02,Javier Martín,Centro Óptico Lux (Alicante),Levante,25,1542.89
+2025-04-04,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,9,603.23
+2025-04-04,Javier Martín,Gafas Faro (Valencia),Levante,13,1260.82
+2025-04-07,Laura Gómez,Óptica Norte (Getafe),Madrid,26,1971.63
+2025-04-07,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,31,2733.35
+2025-04-07,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,10,760.16
+2025-04-07,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,7,422.54
+2025-04-09,Laura Gómez,Visión Central (Madrid),Madrid,7,535.4
+2025-04-09,Laura Gómez,Gafas Real (Madrid),Madrid,13,998.81
+2025-04-10,Laura Gómez,Visión Central (Madrid),Madrid,7,495.98
+2025-04-10,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,12,1198.63
+2025-04-10,Javier Martín,Visión Azul (Castellón),Levante,8,714.39
+2025-04-10,Javier Martín,Ópticas Luna (Castellón),Levante,3,279.34
+2025-04-11,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,8,741.56
+2025-04-14,Marc Puig,Gafas Plaza (Barcelona),Cataluña,9,752.27
+2025-04-14,Sofía Ruiz,Gafas Clara (Granada),Andalucía,15,1076.01
+2025-04-14,Javier Martín,Ópticas Luna (Castellón),Levante,1,75.31
+2025-04-15,Laura Gómez,Óptica Norte (Getafe),Madrid,23,1717.63
+2025-04-15,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,6,521.24
+2025-04-15,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,20,1133.74
+2025-04-15,Javier Martín,Ópticas Luna (Castellón),Levante,10,678.59
+2025-04-16,Laura Gómez,Ópticas Luna (Alcalá),Madrid,21,1625.82
+2025-04-16,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,11,672.59
+2025-04-16,Javier Martín,Óptica Iris (Castellón),Levante,28,2555.49
+2025-04-17,Laura Gómez,Gafas Real (Madrid),Madrid,13,943.05
+2025-04-17,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,17,1522.19
+2025-04-17,Sofía Ruiz,Óptica Azul (Granada),Andalucía,13,736.99
+2025-04-18,Laura Gómez,Visión Clara (Getafe),Madrid,9,644.73
+2025-04-18,Laura Gómez,Gafas Real (Madrid),Madrid,5,358.86
+2025-04-18,Marc Puig,Óptica Avenida (Girona),Cataluña,4,363.66
+2025-04-21,Marc Puig,Ópticas Central (Barcelona),Cataluña,17,970.68
+2025-04-21,Marc Puig,Gafas Plaza (Barcelona),Cataluña,13,993.39
+2025-04-21,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,24,2143.79
+2025-04-21,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,10,704.91
+2025-04-21,Javier Martín,Gafas Nueva (Alicante),Levante,11,1104.04
+2025-04-22,Laura Gómez,Gafas del Mar (Alcalá),Madrid,18,1025.06
+2025-04-22,Javier Martín,Gafas Nueva (Alicante),Levante,4,332.45
+2025-04-22,Javier Martín,Ópticas Prisma (Valencia),Levante,18,1343.86
+2025-04-23,Laura Gómez,Visión Central (Madrid),Madrid,4,292.95
+2025-04-23,Laura Gómez,Ópticas Plaza (Madrid),Madrid,10,910.54
+2025-04-23,Laura Gómez,Visión Clara (Getafe),Madrid,14,836.94
+2025-04-23,Javier Martín,Gafas Nueva (Alicante),Levante,16,1371.95
+2025-04-24,Laura Gómez,Centro Óptico Mirada (Getafe),Madrid,13,1216.52
+2025-04-24,Marc Puig,Ópticas Central (Barcelona),Cataluña,2,209.59
+2025-04-24,Javier Martín,Gafas Nueva (Alicante),Levante,16,1494.61
+2025-04-25,Laura Gómez,Gafas Real (Madrid),Madrid,7,417.54
+2025-04-25,Marc Puig,Ópticas Central (Barcelona),Cataluña,5,469.01
+2025-04-25,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,6,473.94
+2025-04-25,Javier Martín,Visión Real (Valencia),Levante,2,181.63
+2025-04-29,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,24,1451.39
+2025-04-29,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,6,579.79
+2025-04-29,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,13,1106.31
+2025-04-29,Javier Martín,Óptica Sol (Alicante),Levante,11,1047.05
+2025-04-30,Laura Gómez,Visión Central (Madrid),Madrid,16,1373.38
+2025-04-30,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,5,467.99
+2025-05-01,Laura Gómez,Gafas del Mar (Alcalá),Madrid,13,932.76
+2025-05-01,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,19,1409.05
+2025-05-01,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,7,640.95
+2025-05-02,Laura Gómez,Gafas del Mar (Alcalá),Madrid,10,591.19
+2025-05-02,Javier Martín,Centro Óptico Mirada (Valencia),Levante,16,1210.06
+2025-05-05,Marc Puig,Óptica Avenida (Girona),Cataluña,2,173.41
+2025-05-05,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,10,863.35
+2025-05-05,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,22,2153.92
+2025-05-05,Sofía Ruiz,Óptica Azul (Granada),Andalucía,3,288.37
+2025-05-06,Laura Gómez,Óptica Norte (Getafe),Madrid,8,621.49
+2025-05-06,Laura Gómez,Gafas Real (Madrid),Madrid,2,162.45
+2025-05-06,Sofía Ruiz,Visión Avenida (Málaga),Andalucía,14,940.07
+2025-05-07,Marc Puig,Óptica Avenida (Girona),Cataluña,6,554.23
+2025-05-07,Sofía Ruiz,Gafas Clara (Granada),Andalucía,8,721.35
+2025-05-07,Javier Martín,Gafas Nueva (Alicante),Levante,2,158.23
+2025-05-09,Marc Puig,Visión Nueva (Girona),Cataluña,17,991.21
+2025-05-09,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,23,1601.07
+2025-05-09,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,15,1066.4
+2025-05-12,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,38,2468.52
+2025-05-12,Sofía Ruiz,Visión Avenida (Málaga),Andalucía,6,347.44
+2025-05-12,Sofía Ruiz,Gafas Clara (Granada),Andalucía,6,424.4
+2025-05-13,Laura Gómez,Gafas Real (Madrid),Madrid,8,736.97
+2025-05-14,Laura Gómez,Gafas del Mar (Alcalá),Madrid,14,1241.3
+2025-05-14,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,16,908.08
+2025-05-14,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,9,886.03
+2025-05-14,Javier Martín,Gafas Nueva (Alicante),Levante,3,230.75
+2025-05-14,Javier Martín,Gafas Faro (Valencia),Levante,4,414.69
+2025-05-14,Javier Martín,Centro Óptico Mirada (Valencia),Levante,16,992.96
+2025-05-15,Laura Gómez,Ópticas Plaza (Madrid),Madrid,9,831.08
+2025-05-15,Javier Martín,Gafas Faro (Valencia),Levante,6,472.84
+2025-05-16,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,3,254.13
+2025-05-16,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,14,880.46
+2025-05-16,Javier Martín,Centro Óptico Mirada (Valencia),Levante,9,646.67
+2025-05-19,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,4,301.96
+2025-05-19,Marc Puig,Ópticas Central (Barcelona),Cataluña,5,438.66
+2025-05-19,Javier Martín,Óptica Iris (Castellón),Levante,31,2501.55
+2025-05-19,Javier Martín,Óptica Sol (Alicante),Levante,10,941.69
+2025-05-20,Marc Puig,Visión Nueva (Girona),Cataluña,4,359.48
+2025-05-21,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,4,336.51
+2025-05-21,Marc Puig,Óptica Avenida (Girona),Cataluña,14,918.89
+2025-05-21,Marc Puig,Óptica Prisma (Barcelona),Cataluña,22,1445.35
+2025-05-21,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,4,285.74
+2025-05-21,Javier Martín,Visión Real (Valencia),Levante,12,1004.91
+2025-05-23,Laura Gómez,Visión Clara (Getafe),Madrid,6,509.69
+2025-05-23,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,9,875.69
+2025-05-23,Javier Martín,Gafas Nueva (Alicante),Levante,3,220.35
+2025-05-26,Laura Gómez,Gafas del Mar (Alcalá),Madrid,17,1133.36
+2025-05-26,Marc Puig,Óptica Prisma (Barcelona),Cataluña,4,384.76
+2025-05-27,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,4,272.02
+2025-05-28,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,17,1351.21
+2025-05-28,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,11,857.98
+2025-05-29,Marc Puig,Ópticas Central (Barcelona),Cataluña,5,321.45
+2025-05-30,Laura Gómez,Gafas Real (Madrid),Madrid,12,1012.48
+2025-05-30,Marc Puig,Óptica Prisma (Barcelona),Cataluña,11,618.81
+2025-05-30,Javier Martín,Óptica Sol (Alicante),Levante,14,1024.51
+2025-05-30,Javier Martín,Centro Óptico Mirada (Valencia),Levante,15,1061.56
+2025-06-03,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,14,1073.52
+2025-06-03,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,9,642.14
+2025-06-04,Laura Gómez,Visión Central (Madrid),Madrid,15,1023.99
+2025-06-04,Marc Puig,Visión Norte (Sabadell),Cataluña,27,1968.53
+2025-06-04,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,8,641.97
+2025-06-04,Javier Martín,Visión Real (Valencia),Levante,3,354.37
+2025-06-05,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,10,707.0
+2025-06-06,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,13,1244.82
+2025-06-06,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,4,379.95
+2025-06-06,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,10,929.63
+2025-06-09,Laura Gómez,Visión Central (Madrid),Madrid,6,612.32
+2025-06-09,Marc Puig,Óptica Avenida (Girona),Cataluña,11,702.88
+2025-06-09,Marc Puig,Gafas Iris (Sabadell),Cataluña,8,651.39
+2025-06-09,Javier Martín,Gafas Nueva (Alicante),Levante,8,661.64
+2025-06-09,Javier Martín,Óptica Sol (Alicante),Levante,24,1348.6
+2025-06-10,Marc Puig,Óptica Avenida (Girona),Cataluña,11,685.38
+2025-06-11,Laura Gómez,Óptica Sol (Madrid),Madrid,3,232.15
+2025-06-11,Laura Gómez,Visión Clara (Getafe),Madrid,6,644.99
+2025-06-11,Laura Gómez,Gafas Real (Madrid),Madrid,14,1211.27
+2025-06-11,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,3,327.66
+2025-06-12,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,3,357.42
+2025-06-12,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,2,233.36
+2025-06-13,Laura Gómez,Visión Central (Madrid),Madrid,2,154.99
+2025-06-13,Laura Gómez,Óptica Norte (Getafe),Madrid,12,974.67
+2025-06-13,Javier Martín,Gafas Faro (Valencia),Levante,12,749.29
+2025-06-16,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,4,377.71
+2025-06-16,Javier Martín,Visión Azul (Castellón),Levante,1,102.63
+2025-06-18,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,8,831.91
+2025-06-18,Javier Martín,Ópticas Prisma (Valencia),Levante,5,409.43
+2025-06-18,Javier Martín,Óptica Sol (Alicante),Levante,16,1165.58
+2025-06-19,Marc Puig,Óptica Avenida (Girona),Cataluña,10,786.45
+2025-06-19,Javier Martín,Óptica Sol (Alicante),Levante,4,376.94
+2025-06-20,Laura Gómez,Óptica Norte (Getafe),Madrid,36,3191.74
+2025-06-20,Marc Puig,Visión Norte (Sabadell),Cataluña,17,1065.5
+2025-06-20,Marc Puig,Óptica Avenida (Girona),Cataluña,3,243.57
+2025-06-23,Laura Gómez,Gafas del Mar (Alcalá),Madrid,15,1310.75
+2025-06-23,Laura Gómez,Gafas Real (Madrid),Madrid,5,499.06
+2025-06-24,Marc Puig,Ópticas Central (Barcelona),Cataluña,8,695.28
+2025-06-24,Marc Puig,Gafas Iris (Sabadell),Cataluña,5,470.65
+2025-06-24,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,6,512.7
+2025-06-24,Javier Martín,Visión Azul (Castellón),Levante,4,349.54
+2025-06-25,Laura Gómez,Gafas Real (Madrid),Madrid,5,353.76
+2025-06-25,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,3,352.17
+2025-06-26,Marc Puig,Visión Norte (Sabadell),Cataluña,20,1912.43
+2025-06-26,Sofía Ruiz,Gafas Clara (Granada),Andalucía,5,409.18
+2025-06-26,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,8,734.46
+2025-06-26,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,24,1893.63
+2025-06-27,Laura Gómez,Gafas Real (Madrid),Madrid,5,484.15
+2025-06-27,Marc Puig,Gafas Plaza (Barcelona),Cataluña,4,347.49
+2025-06-27,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,10,746.05
+2025-06-27,Javier Martín,Ópticas Luna (Castellón),Levante,21,1793.78
+2025-06-30,Laura Gómez,Visión Clara (Getafe),Madrid,4,360.3
+2025-06-30,Marc Puig,Ópticas Central (Barcelona),Cataluña,3,326.3
+2025-06-30,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,15,869.13
+2025-06-30,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,11,663.57
+2025-06-30,Javier Martín,Gafas Nueva (Alicante),Levante,7,665.68
+2025-06-30,Javier Martín,Ópticas Prisma (Valencia),Levante,13,1251.6
+2025-07-01,Laura Gómez,Gafas del Mar (Alcalá),Madrid,8,630.75
+2025-07-01,Laura Gómez,Visión Clara (Getafe),Madrid,7,566.63
+2025-07-01,Laura Gómez,Gafas Real (Madrid),Madrid,3,224.67
+2025-07-02,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,2,217.14
+2025-07-02,Laura Gómez,Visión Clara (Getafe),Madrid,2,157.54
+2025-07-02,Marc Puig,Óptica Prisma (Barcelona),Cataluña,4,323.31
+2025-07-02,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,2,199.6
+2025-07-03,Laura Gómez,Ópticas Plaza (Madrid),Madrid,6,385.18
+2025-07-03,Javier Martín,Gafas Faro (Valencia),Levante,8,565.29
+2025-07-04,Laura Gómez,Centro Óptico Mirada (Getafe),Madrid,18,1405.26
+2025-07-04,Javier Martín,Ópticas Prisma (Valencia),Levante,7,719.85
+2025-07-07,Laura Gómez,Ópticas Plaza (Madrid),Madrid,7,613.71
+2025-07-07,Laura Gómez,Visión Clara (Getafe),Madrid,5,358.19
+2025-07-07,Sofía Ruiz,Gafas Clara (Granada),Andalucía,9,618.35
+2025-07-08,Laura Gómez,Óptica Norte (Getafe),Madrid,7,648.99
+2025-07-08,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,1,128.61
+2025-07-08,Javier Martín,Gafas Faro (Valencia),Levante,8,673.55
+2025-07-09,Javier Martín,Óptica Sol (Alicante),Levante,4,289.95
+2025-07-10,Marc Puig,Gafas Plaza (Barcelona),Cataluña,5,499.57
+2025-07-10,Javier Martín,Óptica Iris (Castellón),Levante,9,747.91
+2025-07-11,Laura Gómez,Visión Central (Madrid),Madrid,7,394.14
+2025-07-11,Javier Martín,Visión Azul (Castellón),Levante,3,241.08
+2025-07-11,Javier Martín,Ópticas Luna (Castellón),Levante,25,1426.99
+2025-07-14,Laura Gómez,Visión Central (Madrid),Madrid,6,515.35
+2025-07-14,Laura Gómez,Gafas del Mar (Alcalá),Madrid,19,1108.56
+2025-07-14,Marc Puig,Gafas Plaza (Barcelona),Cataluña,6,580.58
+2025-07-15,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,7,597.51
+2025-07-16,Marc Puig,Visión Norte (Sabadell),Cataluña,17,1079.03
+2025-07-17,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,22,2044.06
+2025-07-17,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,6,536.62
+2025-07-18,Laura Gómez,Visión Clara (Getafe),Madrid,2,158.59
+2025-07-18,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,9,688.08
+2025-07-18,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,32,2603.45
+2025-07-18,Javier Martín,Visión Real (Valencia),Levante,2,169.36
+2025-07-21,Laura Gómez,Gafas del Mar (Alcalá),Madrid,14,805.28
+2025-07-21,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,19,1181.82
+2025-07-21,Javier Martín,Gafas Nueva (Alicante),Levante,7,599.82
+2025-07-22,Laura Gómez,Óptica Sol (Madrid),Madrid,7,515.76
+2025-07-22,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,2,230.29
+2025-07-23,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,19,1712.21
+2025-07-24,Laura Gómez,Visión Clara (Getafe),Madrid,2,190.85
+2025-07-25,Laura Gómez,Gafas Real (Madrid),Madrid,6,414.03
+2025-07-25,Javier Martín,Óptica Iris (Castellón),Levante,11,911.53
+2025-07-28,Laura Gómez,Óptica Sol (Madrid),Madrid,14,1129.3
+2025-07-28,Laura Gómez,Visión Central (Madrid),Madrid,11,862.56
+2025-07-28,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,8,710.13
+2025-07-28,Sofía Ruiz,Gafas Clara (Granada),Andalucía,13,810.62
+2025-07-29,Laura Gómez,Óptica Norte (Getafe),Madrid,11,707.03
+2025-07-29,Javier Martín,Gafas Nueva (Alicante),Levante,5,490.88
+2025-07-30,Laura Gómez,Ópticas Plaza (Madrid),Madrid,4,388.47
+2025-07-30,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,17,1132.86
+2025-07-30,Marc Puig,Visión Norte (Sabadell),Cataluña,11,814.09
+2025-07-30,Marc Puig,Óptica Avenida (Girona),Cataluña,7,530.15
+2025-07-30,Marc Puig,Óptica Prisma (Barcelona),Cataluña,5,365.68
+2025-07-30,Sofía Ruiz,Gafas Clara (Granada),Andalucía,4,305.14
+2025-07-31,Marc Puig,Ópticas Clara (Sabadell),Cataluña,6,478.06
+2025-07-31,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,8,691.96
+2025-07-31,Sofía Ruiz,Visión Avenida (Málaga),Andalucía,5,466.6
+2025-07-31,Javier Martín,Visión Real (Valencia),Levante,1,101.88
+2025-07-31,Javier Martín,Óptica Iris (Castellón),Levante,6,424.14
+2025-07-31,Javier Martín,Ópticas Luna (Castellón),Levante,22,1359.94
+2025-08-01,Marc Puig,Ópticas Clara (Sabadell),Cataluña,2,170.25
+2025-08-01,Javier Martín,Óptica Iris (Castellón),Levante,16,1099.36
+2025-08-04,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,3,267.17
+2025-08-04,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,1,162.4
+2025-08-04,Javier Martín,Gafas Nueva (Alicante),Levante,1,144.31
+2025-08-05,Laura Gómez,Ópticas Plaza (Madrid),Madrid,1,76.24
+2025-08-05,Marc Puig,Ópticas Central (Barcelona),Cataluña,2,218.26
+2025-08-05,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,3,324.92
+2025-08-05,Marc Puig,Óptica Avenida (Girona),Cataluña,1,118.88
+2025-08-05,Javier Martín,Gafas Faro (Valencia),Levante,4,364.15
+2025-08-06,Laura Gómez,Gafas Real (Madrid),Madrid,2,197.78
+2025-08-06,Marc Puig,Gafas Plaza (Barcelona),Cataluña,1,67.24
+2025-08-06,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,5,399.51
+2025-08-06,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,5,425.24
+2025-08-06,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,6,410.62
+2025-08-07,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,1,125.55
+2025-08-08,Laura Gómez,Centro Óptico Mirada (Getafe),Madrid,14,1276.17
+2025-08-08,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,1,88.68
+2025-08-08,Javier Martín,Visión Real (Valencia),Levante,3,205.94
+2025-08-11,Marc Puig,Ópticas Central (Barcelona),Cataluña,7,471.77
+2025-08-12,Javier Martín,Centro Óptico Mirada (Valencia),Levante,15,1045.95
+2025-08-13,Laura Gómez,Óptica Norte (Getafe),Madrid,7,624.91
+2025-08-13,Laura Gómez,Ópticas Plaza (Madrid),Madrid,4,332.64
+2025-08-13,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,20,1193.47
+2025-08-13,Sofía Ruiz,Óptica Azul (Granada),Andalucía,5,385.88
+2025-08-14,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,1,31.63
+2025-08-14,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,1,92.85
+2025-08-14,Javier Martín,Óptica Sol (Alicante),Levante,2,194.23
+2025-08-15,Laura Gómez,Visión Clara (Getafe),Madrid,1,102.94
+2025-08-15,Sofía Ruiz,Ópticas Nueva (Málaga),Andalucía,1,70.87
+2025-08-15,Javier Martín,Ópticas Prisma (Valencia),Levante,19,1137.37
+2025-08-15,Javier Martín,Visión Azul (Castellón),Levante,2,152.72
+2025-08-18,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,10,593.35
+2025-08-18,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,3,311.97
+2025-08-18,Javier Martín,Visión Real (Valencia),Levante,2,253.86
+2025-08-18,Javier Martín,Gafas Nueva (Alicante),Levante,2,172.65
+2025-08-19,Marc Puig,Óptica Prisma (Barcelona),Cataluña,3,224.67
+2025-08-19,Sofía Ruiz,Óptica Azul (Granada),Andalucía,4,338.76
+2025-08-20,Javier Martín,Visión Real (Valencia),Levante,6,349.25
+2025-08-21,Laura Gómez,Gafas del Mar (Alcalá),Madrid,1,141.86
+2025-08-21,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,12,831.17
+2025-08-21,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,7,630.09
+2025-08-21,Javier Martín,Visión Real (Valencia),Levante,1,92.19
+2025-08-21,Javier Martín,Ópticas Luna (Castellón),Levante,3,297.41
+2025-08-22,Laura Gómez,Visión Central (Madrid),Madrid,15,959.8
+2025-08-22,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,3,274.44
+2025-08-22,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,5,317.1
+2025-08-22,Javier Martín,Óptica Sol (Alicante),Levante,3,319.01
+2025-08-25,Sofía Ruiz,Visión Avenida (Málaga),Andalucía,3,217.92
+2025-08-25,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,5,491.06
+2025-08-25,Javier Martín,Gafas Faro (Valencia),Levante,1,181.95
+2025-08-26,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,2,230.67
+2025-08-26,Javier Martín,Visión Azul (Castellón),Levante,1,51.64
+2025-08-27,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,1,151.49
+2025-08-27,Marc Puig,Óptica Avenida (Girona),Cataluña,2,161.35
+2025-08-27,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,16,905.03
+2025-08-27,Javier Martín,Óptica Iris (Castellón),Levante,7,669.5
+2025-08-27,Javier Martín,Gafas Faro (Valencia),Levante,2,196.78
+2025-08-27,Javier Martín,Centro Óptico Mirada (Valencia),Levante,5,396.17
+2025-08-28,Laura Gómez,Gafas Real (Madrid),Madrid,1,102.54
+2025-08-28,Javier Martín,Ópticas Luna (Castellón),Levante,5,499.93
+2025-08-28,Javier Martín,Centro Óptico Mirada (Valencia),Levante,3,271.0
+2025-08-29,Laura Gómez,Gafas del Mar (Alcalá),Madrid,8,537.94
+2025-08-29,Laura Gómez,Visión Clara (Getafe),Madrid,9,667.19
+2025-08-29,Marc Puig,Óptica Avenida (Girona),Cataluña,4,278.1
+2025-08-29,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,1,99.46
+2025-08-29,Sofía Ruiz,Óptica Azul (Granada),Andalucía,9,757.16
+2025-09-01,Laura Gómez,Óptica Sol (Madrid),Madrid,14,1124.62
+2025-09-01,Javier Martín,Gafas Nueva (Alicante),Levante,5,378.94
+2025-09-01,Javier Martín,Óptica Iris (Castellón),Levante,12,907.93
+2025-09-02,Laura Gómez,Visión Central (Madrid),Madrid,22,1350.9
+2025-09-02,Marc Puig,Gafas Plaza (Barcelona),Cataluña,3,240.34
+2025-09-04,Marc Puig,Óptica Prisma (Barcelona),Cataluña,15,895.36
+2025-09-04,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,25,1519.42
+2025-09-04,Sofía Ruiz,Óptica Azul (Granada),Andalucía,9,816.77
+2025-09-04,Javier Martín,Visión Real (Valencia),Levante,5,290.15
+2025-09-04,Javier Martín,Gafas Faro (Valencia),Levante,11,787.28
+2025-09-05,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,2,237.75
+2025-09-05,Marc Puig,Óptica Prisma (Barcelona),Cataluña,7,598.0
+2025-09-05,Javier Martín,Gafas Nueva (Alicante),Levante,5,371.93
+2025-09-05,Javier Martín,Ópticas Prisma (Valencia),Levante,29,1764.41
+2025-09-05,Javier Martín,Gafas Faro (Valencia),Levante,5,525.95
+2025-09-08,Marc Puig,Ópticas Central (Barcelona),Cataluña,5,432.37
+2025-09-09,Marc Puig,Visión Norte (Sabadell),Cataluña,12,764.64
+2025-09-09,Javier Martín,Visión Azul (Castellón),Levante,9,609.32
+2025-09-12,Laura Gómez,Ópticas Plaza (Madrid),Madrid,6,345.41
+2025-09-12,Laura Gómez,Visión Clara (Getafe),Madrid,12,1099.51
+2025-09-12,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,11,803.15
+2025-09-12,Marc Puig,Visión Norte (Sabadell),Cataluña,10,684.09
+2025-09-12,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,10,864.39
+2025-09-12,Javier Martín,Visión Real (Valencia),Levante,4,369.35
+2025-09-15,Marc Puig,Gafas Plaza (Barcelona),Cataluña,3,311.46
+2025-09-15,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,21,1659.16
+2025-09-16,Laura Gómez,Visión Clara (Getafe),Madrid,8,749.72
+2025-09-16,Marc Puig,Visión Norte (Sabadell),Cataluña,17,1303.81
+2025-09-16,Javier Martín,Gafas Nueva (Alicante),Levante,2,212.41
+2025-09-17,Javier Martín,Óptica Sol (Alicante),Levante,12,897.81
+2025-09-18,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,7,608.13
+2025-09-18,Javier Martín,Visión Real (Valencia),Levante,2,182.0
+2025-09-19,Javier Martín,Gafas Nueva (Alicante),Levante,7,699.81
+2025-09-19,Javier Martín,Visión Azul (Castellón),Levante,9,527.79
+2025-09-19,Javier Martín,Ópticas Luna (Castellón),Levante,11,673.41
+2025-09-22,Laura Gómez,Visión Central (Madrid),Madrid,2,236.72
+2025-09-22,Marc Puig,Ópticas Central (Barcelona),Cataluña,8,498.49
+2025-09-22,Marc Puig,Óptica Avenida (Girona),Cataluña,8,467.25
+2025-09-22,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,2,126.55
+2025-09-22,Javier Martín,Visión Azul (Castellón),Levante,9,771.06
+2025-09-22,Javier Martín,Gafas Faro (Valencia),Levante,7,492.34
+2025-09-23,Laura Gómez,Ópticas Plaza (Madrid),Madrid,5,478.43
+2025-09-23,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,1,135.79
+2025-09-23,Javier Martín,Óptica Sol (Alicante),Levante,5,407.34
+2025-09-24,Laura Gómez,Visión Central (Madrid),Madrid,25,1688.83
+2025-09-24,Marc Puig,Óptica Avenida (Girona),Cataluña,1,115.95
+2025-09-24,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,11,848.12
+2025-09-24,Javier Martín,Ópticas Luna (Castellón),Levante,7,709.37
+2025-09-25,Laura Gómez,Ópticas Plaza (Madrid),Madrid,16,1371.49
+2025-09-25,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,24,1698.35
+2025-09-25,Marc Puig,Óptica Avenida (Girona),Cataluña,8,563.6
+2025-09-25,Javier Martín,Visión Azul (Castellón),Levante,5,459.36
+2025-09-25,Javier Martín,Óptica Sol (Alicante),Levante,8,661.9
+2025-09-26,Laura Gómez,Visión Central (Madrid),Madrid,10,671.59
+2025-09-26,Javier Martín,Gafas Nueva (Alicante),Levante,1,120.1
+2025-09-29,Marc Puig,Visión Norte (Sabadell),Cataluña,9,751.0
+2025-09-29,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,32,2380.93
+2025-09-29,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,7,582.12
+2025-09-30,Laura Gómez,Ópticas Plaza (Madrid),Madrid,5,510.25
+2025-09-30,Marc Puig,Gafas Plaza (Barcelona),Cataluña,4,293.32
+2025-09-30,Javier Martín,Óptica Iris (Castellón),Levante,26,1713.53
+2025-10-01,Laura Gómez,Ópticas Plaza (Madrid),Madrid,10,657.14
+2025-10-01,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,4,291.75
+2025-10-01,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,5,544.36
+2025-10-02,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,10,965.76
+2025-10-02,Marc Puig,Visión Nueva (Girona),Cataluña,10,854.37
+2025-10-03,Javier Martín,Ópticas Prisma (Valencia),Levante,4,408.39
+2025-10-06,Laura Gómez,Centro Óptico Mirada (Getafe),Madrid,1,107.52
+2025-10-06,Laura Gómez,Visión Central (Madrid),Madrid,21,1698.53
+2025-10-06,Marc Puig,Gafas Plaza (Barcelona),Cataluña,3,193.43
+2025-10-06,Marc Puig,Gafas Iris (Sabadell),Cataluña,3,254.13
+2025-10-06,Marc Puig,Óptica Prisma (Barcelona),Cataluña,4,276.75
+2025-10-06,Sofía Ruiz,Gafas Clara (Granada),Andalucía,17,970.88
+2025-10-07,Laura Gómez,Gafas del Mar (Alcalá),Madrid,7,628.93
+2025-10-07,Laura Gómez,Gafas Real (Madrid),Madrid,8,504.53
+2025-10-07,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,11,905.23
+2025-10-08,Laura Gómez,Óptica Sol (Madrid),Madrid,3,329.97
+2025-10-08,Laura Gómez,Gafas del Mar (Alcalá),Madrid,10,972.14
+2025-10-08,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,4,382.59
+2025-10-08,Marc Puig,Óptica Prisma (Barcelona),Cataluña,3,269.29
+2025-10-08,Javier Martín,Gafas Nueva (Alicante),Levante,9,664.59
+2025-10-09,Laura Gómez,Óptica Sol (Madrid),Madrid,6,445.7
+2025-10-09,Laura Gómez,Visión Clara (Getafe),Madrid,3,295.45
+2025-10-09,Sofía Ruiz,Gafas Clara (Granada),Andalucía,4,369.05
+2025-10-10,Laura Gómez,Gafas Real (Madrid),Madrid,10,640.89
+2025-10-10,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,21,1325.03
+2025-10-13,Laura Gómez,Óptica Norte (Getafe),Madrid,22,1476.16
+2025-10-14,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,21,1566.42
+2025-10-14,Laura Gómez,Visión Clara (Getafe),Madrid,7,434.19
+2025-10-14,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,11,1026.43
+2025-10-14,Javier Martín,Visión Real (Valencia),Levante,4,280.32
+2025-10-15,Marc Puig,Óptica Avenida (Girona),Cataluña,2,190.38
+2025-10-15,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,11,907.04
+2025-10-16,Laura Gómez,Visión Clara (Getafe),Madrid,2,237.11
+2025-10-16,Javier Martín,Centro Óptico Lux (Alicante),Levante,11,927.48
+2025-10-17,Laura Gómez,Visión Central (Madrid),Madrid,14,1042.64
+2025-10-17,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,2,203.82
+2025-10-17,Javier Martín,Óptica Iris (Castellón),Levante,25,1526.22
+2025-10-17,Javier Martín,Gafas Faro (Valencia),Levante,1,112.86
+2025-10-17,Javier Martín,Centro Óptico Mirada (Valencia),Levante,10,753.65
+2025-10-20,Javier Martín,Gafas Faro (Valencia),Levante,2,197.76
+2025-10-21,Javier Martín,Ópticas Prisma (Valencia),Levante,7,593.41
+2025-10-22,Laura Gómez,Óptica Sol (Madrid),Madrid,16,1362.67
+2025-10-22,Sofía Ruiz,Óptica Azul (Granada),Andalucía,10,605.08
+2025-10-22,Javier Martín,Centro Óptico Mirada (Valencia),Levante,12,698.51
+2025-10-23,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,15,1099.15
+2025-10-23,Javier Martín,Gafas Faro (Valencia),Levante,3,188.56
+2025-10-24,Laura Gómez,Ópticas Plaza (Madrid),Madrid,13,1033.18
+2025-10-24,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,14,1234.6
+2025-10-24,Javier Martín,Óptica Iris (Castellón),Levante,14,1225.42
+2025-10-27,Marc Puig,Óptica Avenida (Girona),Cataluña,9,791.05
+2025-10-27,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,13,1163.32
+2025-10-28,Laura Gómez,Visión Central (Madrid),Madrid,6,594.58
+2025-10-28,Laura Gómez,Gafas del Mar (Alcalá),Madrid,13,916.19
+2025-10-28,Marc Puig,Gafas Plaza (Barcelona),Cataluña,3,286.51
+2025-10-28,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,6,502.7
+2025-10-28,Marc Puig,Gafas Iris (Sabadell),Cataluña,2,223.6
+2025-10-28,Marc Puig,Óptica Prisma (Barcelona),Cataluña,11,634.86
+2025-10-28,Javier Martín,Ópticas Prisma (Valencia),Levante,14,978.65
+2025-10-29,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,4,266.61
+2025-10-29,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,5,401.74
+2025-10-29,Javier Martín,Centro Óptico Lux (Alicante),Levante,8,496.99
+2025-10-30,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,12,841.08
+2025-10-30,Laura Gómez,Visión Clara (Getafe),Madrid,4,407.54
+2025-10-30,Marc Puig,Ópticas Central (Barcelona),Cataluña,2,155.76
+2025-10-30,Marc Puig,Visión Nueva (Girona),Cataluña,7,473.02
+2025-10-30,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,2,175.16
+2025-10-30,Javier Martín,Ópticas Prisma (Valencia),Levante,8,562.13
+2025-10-31,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,17,1223.37
+2025-10-31,Javier Martín,Centro Óptico Lux (Alicante),Levante,3,219.5
+2025-11-03,Laura Gómez,Óptica Norte (Getafe),Madrid,2,253.25
+2025-11-03,Marc Puig,Gafas Plaza (Barcelona),Cataluña,5,385.09
+2025-11-03,Sofía Ruiz,Visión Avenida (Málaga),Andalucía,4,339.29
+2025-11-03,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,46,2804.01
+2025-11-04,Laura Gómez,Gafas del Mar (Alcalá),Madrid,13,828.98
+2025-11-04,Laura Gómez,Gafas Real (Madrid),Madrid,5,361.18
+2025-11-04,Javier Martín,Ópticas Prisma (Valencia),Levante,13,1096.33
+2025-11-05,Laura Gómez,Gafas del Mar (Alcalá),Madrid,5,426.6
+2025-11-05,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,6,498.68
+2025-11-06,Laura Gómez,Gafas Real (Madrid),Madrid,4,237.14
+2025-11-06,Sofía Ruiz,Gafas Clara (Granada),Andalucía,2,153.96
+2025-11-06,Javier Martín,Visión Real (Valencia),Levante,6,526.34
+2025-11-06,Javier Martín,Gafas Faro (Valencia),Levante,7,481.62
+2025-11-07,Laura Gómez,Gafas Real (Madrid),Madrid,8,751.12
+2025-11-07,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,11,824.63
+2025-11-07,Sofía Ruiz,Gafas Clara (Granada),Andalucía,3,296.1
+2025-11-07,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,8,640.21
+2025-11-07,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,9,525.68
+2025-11-10,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,6,628.41
+2025-11-10,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,8,664.56
+2025-11-11,Laura Gómez,Óptica Norte (Getafe),Madrid,17,1062.67
+2025-11-11,Marc Puig,Visión Norte (Sabadell),Cataluña,4,344.04
+2025-11-11,Marc Puig,Óptica Prisma (Barcelona),Cataluña,3,259.73
+2025-11-11,Sofía Ruiz,Óptica Azul (Granada),Andalucía,3,184.16
+2025-11-11,Javier Martín,Gafas Faro (Valencia),Levante,1,159.26
+2025-11-12,Laura Gómez,Gafas del Mar (Alcalá),Madrid,4,292.4
+2025-11-12,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,3,258.05
+2025-11-12,Sofía Ruiz,Óptica Azul (Granada),Andalucía,10,738.83
+2025-11-14,Javier Martín,Visión Azul (Castellón),Levante,4,285.02
+2025-11-17,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,10,881.57
+2025-11-17,Javier Martín,Ópticas Prisma (Valencia),Levante,5,494.96
+2025-11-18,Laura Gómez,Visión Clara (Getafe),Madrid,4,311.68
+2025-11-18,Marc Puig,Ópticas Central (Barcelona),Cataluña,6,421.28
+2025-11-18,Marc Puig,Óptica Avenida (Girona),Cataluña,2,159.28
+2025-11-18,Marc Puig,Gafas Iris (Sabadell),Cataluña,3,299.28
+2025-11-18,Javier Martín,Óptica Sol (Alicante),Levante,10,958.06
+2025-11-19,Marc Puig,Ópticas Central (Barcelona),Cataluña,4,373.37
+2025-11-19,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,19,1124.96
+2025-11-21,Laura Gómez,Ópticas Luna (Alcalá),Madrid,7,726.02
+2025-11-21,Laura Gómez,Visión Central (Madrid),Madrid,6,482.79
+2025-11-21,Marc Puig,Visión Norte (Sabadell),Cataluña,3,233.79
+2025-11-21,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,8,555.47
+2025-11-24,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,5,282.93
+2025-11-24,Javier Martín,Óptica Sol (Alicante),Levante,16,1465.94
+2025-11-25,Laura Gómez,Gafas del Mar (Alcalá),Madrid,1,170.36
+2025-11-25,Javier Martín,Gafas Nueva (Alicante),Levante,8,554.34
+2025-11-25,Javier Martín,Visión Azul (Castellón),Levante,5,511.62
+2025-11-26,Laura Gómez,Ópticas Plaza (Madrid),Madrid,9,515.64
+2025-11-26,Laura Gómez,Gafas Real (Madrid),Madrid,6,420.69
+2025-11-26,Marc Puig,Visión Norte (Sabadell),Cataluña,4,407.39
+2025-11-26,Marc Puig,Óptica Avenida (Girona),Cataluña,2,168.06
+2025-11-26,Sofía Ruiz,Visión Avenida (Málaga),Andalucía,3,317.64
+2025-11-26,Sofía Ruiz,Gafas Clara (Granada),Andalucía,10,704.51
+2025-11-26,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,6,528.51
+2025-11-26,Javier Martín,Gafas Nueva (Alicante),Levante,3,358.25
+2025-11-26,Javier Martín,Visión Azul (Castellón),Levante,2,164.15
+2025-11-27,Laura Gómez,Visión Central (Madrid),Madrid,7,470.69
+2025-11-27,Laura Gómez,Ópticas Plaza (Madrid),Madrid,10,824.67
+2025-11-27,Sofía Ruiz,Visión Avenida (Málaga),Andalucía,2,254.06
+2025-11-27,Javier Martín,Óptica Sol (Alicante),Levante,9,755.2
+2025-11-28,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,20,1444.06
+2025-11-28,Sofía Ruiz,Óptica Azul (Granada),Andalucía,6,540.0
+2025-11-28,Javier Martín,Óptica Sol (Alicante),Levante,9,527.51
+2025-12-01,Laura Gómez,Óptica Sol (Madrid),Madrid,11,997.89
+2025-12-01,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,1,71.92
+2025-12-01,Marc Puig,Óptica Avenida (Girona),Cataluña,7,741.23
+2025-12-01,Javier Martín,Gafas Nueva (Alicante),Levante,1,103.58
+2025-12-03,Laura Gómez,Visión Clara (Getafe),Madrid,1,103.04
+2025-12-03,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,7,589.35
+2025-12-03,Sofía Ruiz,Óptica Azul (Granada),Andalucía,6,636.07
+2025-12-03,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,1,123.21
+2025-12-03,Javier Martín,Óptica Iris (Castellón),Levante,9,682.51
+2025-12-04,Javier Martín,Óptica Sol (Alicante),Levante,4,296.17
+2025-12-04,Javier Martín,Centro Óptico Mirada (Valencia),Levante,3,259.36
+2025-12-05,Laura Gómez,Gafas del Mar (Alcalá),Madrid,3,302.45
+2025-12-05,Laura Gómez,Ópticas Plaza (Madrid),Madrid,17,1339.14
+2025-12-05,Javier Martín,Centro Óptico Lux (Alicante),Levante,7,608.29
+2025-12-05,Javier Martín,Centro Óptico Mirada (Valencia),Levante,15,1065.59
+2025-12-08,Javier Martín,Gafas Nueva (Alicante),Levante,1,71.97
+2025-12-08,Javier Martín,Óptica Iris (Castellón),Levante,17,1116.49
+2025-12-08,Javier Martín,Centro Óptico Mirada (Valencia),Levante,5,478.21
+2025-12-09,Laura Gómez,Óptica Sol (Madrid),Madrid,7,566.7
+2025-12-09,Laura Gómez,Visión Clara (Getafe),Madrid,6,510.87
+2025-12-09,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,8,800.16
+2025-12-09,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,10,913.43
+2025-12-09,Sofía Ruiz,Óptica Azul (Granada),Andalucía,1,144.65
+2025-12-09,Javier Martín,Ópticas Luna (Castellón),Levante,13,1040.93
+2025-12-10,Javier Martín,Gafas Faro (Valencia),Levante,3,291.12
+2025-12-11,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,32,2697.76
+2025-12-11,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,6,527.34
+2025-12-11,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,3,291.8
+2025-12-11,Javier Martín,Gafas Faro (Valencia),Levante,1,155.7
+2025-12-12,Laura Gómez,Gafas del Mar (Alcalá),Madrid,7,480.27
+2025-12-12,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,4,296.68
+2025-12-12,Marc Puig,Óptica Prisma (Barcelona),Cataluña,2,128.94
+2025-12-12,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,15,1389.52
+2025-12-12,Javier Martín,Visión Real (Valencia),Levante,4,435.46
+2025-12-15,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,2,270.31
+2025-12-15,Javier Martín,Gafas Nueva (Alicante),Levante,1,126.47
+2025-12-16,Marc Puig,Ópticas Clara (Sabadell),Cataluña,4,347.63
+2025-12-16,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,2,157.65
+2025-12-16,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,17,1025.28
+2025-12-17,Laura Gómez,Gafas Real (Madrid),Madrid,1,135.47
+2025-12-17,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,4,441.92
+2025-12-17,Marc Puig,Óptica Prisma (Barcelona),Cataluña,8,810.11
+2025-12-17,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,26,1908.63
+2025-12-18,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,17,1619.73
+2025-12-18,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,20,1690.82
+2025-12-18,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,22,1737.33
+2025-12-18,Sofía Ruiz,Óptica Azul (Granada),Andalucía,12,973.19
+2025-12-18,Javier Martín,Ópticas Prisma (Valencia),Levante,19,1346.86
+2025-12-18,Javier Martín,Gafas Faro (Valencia),Levante,5,391.84
+2025-12-19,Laura Gómez,Visión Central (Madrid),Madrid,4,271.21
+2025-12-19,Laura Gómez,Ópticas Plaza (Madrid),Madrid,16,1018.37
+2025-12-19,Laura Gómez,Visión Clara (Getafe),Madrid,9,552.58
+2025-12-19,Marc Puig,Visión Nueva (Girona),Cataluña,7,577.76
+2025-12-22,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,1,147.65
+2025-12-22,Javier Martín,Gafas Nueva (Alicante),Levante,4,418.96
+2025-12-23,Marc Puig,Óptica Avenida (Girona),Cataluña,4,324.56
+2025-12-23,Javier Martín,Óptica Sol (Alicante),Levante,10,868.97
+2025-12-24,Laura Gómez,Óptica Norte (Getafe),Madrid,12,1085.17
+2025-12-24,Javier Martín,Centro Óptico Lux (Alicante),Levante,14,1183.62
+2025-12-24,Javier Martín,Óptica Sol (Alicante),Levante,9,620.95
+2025-12-24,Javier Martín,Centro Óptico Mirada (Valencia),Levante,2,274.59
+2025-12-25,Javier Martín,Visión Real (Valencia),Levante,3,216.68
+2025-12-25,Javier Martín,Gafas Nueva (Alicante),Levante,5,479.82
+2025-12-26,Laura Gómez,Visión Clara (Getafe),Madrid,5,377.53
+2025-12-26,Javier Martín,Visión Real (Valencia),Levante,1,63.83
+2025-12-26,Javier Martín,Gafas Nueva (Alicante),Levante,1,140.39
+2025-12-29,Laura Gómez,Gafas Real (Madrid),Madrid,2,221.28
+2025-12-29,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,7,518.54
+2025-12-29,Marc Puig,Gafas Plaza (Barcelona),Cataluña,11,754.15
+2025-12-30,Marc Puig,Óptica Avenida (Girona),Cataluña,1,156.89
+2025-12-30,Sofía Ruiz,Ópticas Nueva (Málaga),Andalucía,4,437.87
+2025-12-30,Javier Martín,Visión Real (Valencia),Levante,3,250.19
+2025-12-31,Laura Gómez,Visión Central (Madrid),Madrid,6,651.79
+2025-12-31,Javier Martín,Gafas Nueva (Alicante),Levante,4,339.48
+2025-12-31,Javier Martín,Óptica Sol (Alicante),Levante,5,451.56
+2026-01-01,Marc Puig,Visión Norte (Sabadell),Cataluña,6,416.99
+2026-01-02,Laura Gómez,Óptica Norte (Getafe),Madrid,18,1093.41
+2026-01-02,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,14,1205.33
+2026-01-05,Laura Gómez,Óptica Sol (Madrid),Madrid,5,462.89
+2026-01-05,Laura Gómez,Ópticas Plaza (Madrid),Madrid,7,393.05
+2026-01-05,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,2,232.04
+2026-01-05,Marc Puig,Óptica Avenida (Girona),Cataluña,3,270.91
+2026-01-05,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,8,672.02
+2026-01-06,Sofía Ruiz,Visión Avenida (Málaga),Andalucía,4,411.93
+2026-01-06,Sofía Ruiz,Gafas Clara (Granada),Andalucía,13,761.27
+2026-01-06,Javier Martín,Visión Real (Valencia),Levante,2,146.92
+2026-01-07,Marc Puig,Ópticas Central (Barcelona),Cataluña,7,605.6
+2026-01-08,Laura Gómez,Visión Clara (Getafe),Madrid,2,182.31
+2026-01-08,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,1,65.73
+2026-01-08,Javier Martín,Visión Real (Valencia),Levante,6,380.25
+2026-01-09,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,11,1021.4
+2026-01-12,Laura Gómez,Óptica Sol (Madrid),Madrid,10,893.93
+2026-01-12,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,8,538.6
+2026-01-12,Javier Martín,Visión Real (Valencia),Levante,4,426.53
+2026-01-14,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,1,68.75
+2026-01-14,Marc Puig,Ópticas Clara (Sabadell),Cataluña,4,394.13
+2026-01-14,Sofía Ruiz,Visión Avenida (Málaga),Andalucía,6,430.88
+2026-01-14,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,10,904.73
+2026-01-15,Marc Puig,Ópticas Clara (Sabadell),Cataluña,10,746.24
+2026-01-15,Sofía Ruiz,Óptica Azul (Granada),Andalucía,9,668.24
+2026-01-15,Javier Martín,Centro Óptico Lux (Alicante),Levante,14,1188.32
+2026-01-15,Javier Martín,Centro Óptico Mirada (Valencia),Levante,2,244.57
+2026-01-16,Marc Puig,Visión Nueva (Girona),Cataluña,7,447.75
+2026-01-16,Sofía Ruiz,Visión Avenida (Málaga),Andalucía,6,454.58
+2026-01-16,Javier Martín,Gafas Faro (Valencia),Levante,3,305.22
+2026-01-16,Javier Martín,Óptica Sol (Alicante),Levante,18,1426.09
+2026-01-19,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,57,3280.79
+2026-01-19,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,1,121.58
+2026-01-19,Javier Martín,Óptica Sol (Alicante),Levante,15,860.31
+2026-01-20,Marc Puig,Óptica Avenida (Girona),Cataluña,4,385.41
+2026-01-20,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,9,779.3
+2026-01-20,Sofía Ruiz,Ópticas Nueva (Málaga),Andalucía,14,825.56
+2026-01-20,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,30,1714.94
+2026-01-21,Laura Gómez,Visión Clara (Getafe),Madrid,1,128.9
+2026-01-21,Laura Gómez,Gafas Real (Madrid),Madrid,4,428.41
+2026-01-21,Marc Puig,Ópticas Central (Barcelona),Cataluña,5,393.83
+2026-01-21,Marc Puig,Ópticas Clara (Sabadell),Cataluña,1,87.78
+2026-01-21,Sofía Ruiz,Óptica Azul (Granada),Andalucía,3,180.62
+2026-01-22,Laura Gómez,Visión Central (Madrid),Madrid,13,1057.57
+2026-01-22,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,4,421.61
+2026-01-26,Marc Puig,Ópticas Central (Barcelona),Cataluña,3,289.6
+2026-01-26,Marc Puig,Gafas Plaza (Barcelona),Cataluña,2,197.63
+2026-01-26,Javier Martín,Centro Óptico Lux (Alicante),Levante,9,706.86
+2026-01-27,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,33,2200.97
+2026-01-27,Laura Gómez,Visión Clara (Getafe),Madrid,4,318.48
+2026-01-27,Javier Martín,Gafas Nueva (Alicante),Levante,3,284.42
+2026-01-28,Marc Puig,Ópticas Central (Barcelona),Cataluña,10,692.47
+2026-01-28,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,3,296.43
+2026-01-28,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,6,582.02
+2026-01-28,Javier Martín,Gafas Faro (Valencia),Levante,6,449.88
+2026-01-29,Laura Gómez,Visión Central (Madrid),Madrid,8,474.07
+2026-01-29,Marc Puig,Gafas Plaza (Barcelona),Cataluña,2,202.69
+2026-01-29,Sofía Ruiz,Visión Avenida (Málaga),Andalucía,6,436.31
+2026-01-29,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,2,143.88
+2026-01-29,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,24,1539.69
+2026-01-30,Laura Gómez,Ópticas Luna (Alcalá),Madrid,3,323.71
+2026-01-30,Laura Gómez,Visión Clara (Getafe),Madrid,4,384.86
+2026-01-30,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,6,554.85
+2026-02-02,Laura Gómez,Óptica Sol (Madrid),Madrid,1,174.55
+2026-02-02,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,12,1131.07
+2026-02-02,Javier Martín,Centro Óptico Mirada (Valencia),Levante,11,767.74
+2026-02-03,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,9,835.21
+2026-02-03,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,5,499.38
+2026-02-03,Marc Puig,Gafas Plaza (Barcelona),Cataluña,13,870.47
+2026-02-03,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,4,376.1
+2026-02-03,Javier Martín,Gafas Faro (Valencia),Levante,1,180.75
+2026-02-04,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,12,1073.05
+2026-02-04,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,6,421.62
+2026-02-04,Marc Puig,Gafas Plaza (Barcelona),Cataluña,10,913.76
+2026-02-04,Marc Puig,Óptica Prisma (Barcelona),Cataluña,1,84.64
+2026-02-04,Sofía Ruiz,Gafas Clara (Granada),Andalucía,4,360.85
+2026-02-04,Javier Martín,Visión Azul (Castellón),Levante,4,340.37
+2026-02-04,Javier Martín,Gafas Faro (Valencia),Levante,9,710.04
+2026-02-05,Laura Gómez,Gafas del Mar (Alcalá),Madrid,2,188.75
+2026-02-05,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,13,826.36
+2026-02-06,Laura Gómez,Centro Óptico Mirada (Getafe),Madrid,10,836.43
+2026-02-06,Marc Puig,Óptica Prisma (Barcelona),Cataluña,7,529.51
+2026-02-06,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,13,1150.58
+2026-02-06,Sofía Ruiz,Ópticas Nueva (Málaga),Andalucía,4,358.34
+2026-02-06,Javier Martín,Ópticas Prisma (Valencia),Levante,29,1611.7
+2026-02-09,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,10,994.34
+2026-02-09,Sofía Ruiz,Ópticas Nueva (Málaga),Andalucía,4,296.45
+2026-02-10,Laura Gómez,Ópticas Luna (Alcalá),Madrid,9,738.89
+2026-02-10,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,3,279.26
+2026-02-10,Javier Martín,Gafas Nueva (Alicante),Levante,6,379.88
+2026-02-11,Sofía Ruiz,Visión Avenida (Málaga),Andalucía,3,341.6
+2026-02-11,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,38,2790.04
+2026-02-11,Sofía Ruiz,Óptica Azul (Granada),Andalucía,3,282.28
+2026-02-12,Marc Puig,Óptica Prisma (Barcelona),Cataluña,1,125.42
+2026-02-12,Javier Martín,Visión Azul (Castellón),Levante,4,428.64
+2026-02-13,Javier Martín,Visión Azul (Castellón),Levante,3,313.86
+2026-02-16,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,27,1774.29
+2026-02-16,Marc Puig,Óptica Avenida (Girona),Cataluña,5,419.29
+2026-02-16,Marc Puig,Óptica Prisma (Barcelona),Cataluña,5,385.11
+2026-02-16,Javier Martín,Centro Óptico Lux (Alicante),Levante,9,517.02
+2026-02-17,Laura Gómez,Óptica Sol (Madrid),Madrid,13,890.98
+2026-02-17,Marc Puig,Óptica Avenida (Girona),Cataluña,5,501.35
+2026-02-17,Sofía Ruiz,Ópticas Nueva (Málaga),Andalucía,18,1097.75
+2026-02-18,Laura Gómez,Ópticas Luna (Alcalá),Madrid,9,832.98
+2026-02-18,Laura Gómez,Gafas Real (Madrid),Madrid,1,162.07
+2026-02-18,Marc Puig,Óptica Avenida (Girona),Cataluña,3,271.72
+2026-02-18,Sofía Ruiz,Gafas Clara (Granada),Andalucía,5,413.61
+2026-02-18,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,10,609.66
+2026-02-19,Laura Gómez,Visión Clara (Getafe),Madrid,5,373.88
+2026-02-20,Marc Puig,Gafas Iris (Sabadell),Cataluña,17,1128.07
+2026-02-23,Marc Puig,Gafas Plaza (Barcelona),Cataluña,7,659.58
+2026-02-23,Marc Puig,Óptica Avenida (Girona),Cataluña,1,87.72
+2026-02-23,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,21,1779.49
+2026-02-23,Javier Martín,Gafas Nueva (Alicante),Levante,8,528.45
+2026-02-24,Laura Gómez,Gafas del Mar (Alcalá),Madrid,3,263.87
+2026-02-24,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,4,375.01
+2026-02-24,Javier Martín,Centro Óptico Mirada (Valencia),Levante,9,710.77
+2026-02-25,Javier Martín,Visión Azul (Castellón),Levante,2,196.17
+2026-02-26,Laura Gómez,Ópticas Plaza (Madrid),Madrid,9,654.46
+2026-02-26,Marc Puig,Gafas Plaza (Barcelona),Cataluña,3,236.9
+2026-02-26,Sofía Ruiz,Gafas Clara (Granada),Andalucía,2,239.1
+2026-02-26,Javier Martín,Visión Real (Valencia),Levante,5,397.72
+2026-02-26,Javier Martín,Centro Óptico Lux (Alicante),Levante,4,339.53
+2026-02-27,Laura Gómez,Visión Central (Madrid),Madrid,2,232.97
+2026-02-27,Laura Gómez,Gafas Real (Madrid),Madrid,2,207.35
+2026-03-02,Laura Gómez,Óptica Sol (Madrid),Madrid,18,1663.36
+2026-03-02,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,9,535.59
+2026-03-02,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,13,1037.39
+2026-03-02,Javier Martín,Gafas Nueva (Alicante),Levante,6,481.88
+2026-03-03,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,7,646.28
+2026-03-03,Marc Puig,Óptica Avenida (Girona),Cataluña,8,634.77
+2026-03-03,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,11,1069.83
+2026-03-04,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,3,264.44
+2026-03-04,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,6,583.41
+2026-03-05,Laura Gómez,Ópticas Plaza (Madrid),Madrid,9,606.71
+2026-03-05,Laura Gómez,Visión Clara (Getafe),Madrid,6,425.95
+2026-03-05,Marc Puig,Óptica Prisma (Barcelona),Cataluña,3,298.18
+2026-03-06,Laura Gómez,Ópticas Luna (Alcalá),Madrid,18,1399.53
+2026-03-06,Laura Gómez,Gafas Real (Madrid),Madrid,8,566.05
+2026-03-06,Sofía Ruiz,Óptica Azul (Granada),Andalucía,17,1142.71
+2026-03-09,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,5,466.9
+2026-03-10,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,40,2258.81
+2026-03-10,Javier Martín,Gafas Nueva (Alicante),Levante,5,464.23
+2026-03-11,Marc Puig,Ópticas Central (Barcelona),Cataluña,3,188.4
+2026-03-11,Sofía Ruiz,Visión Avenida (Málaga),Andalucía,8,647.37
+2026-03-11,Sofía Ruiz,Gafas Clara (Granada),Andalucía,3,346.18
+2026-03-11,Javier Martín,Óptica Sol (Alicante),Levante,7,428.81
+2026-03-12,Laura Gómez,Gafas del Mar (Alcalá),Madrid,14,804.23
+2026-03-12,Laura Gómez,Visión Clara (Getafe),Madrid,5,511.28
+2026-03-12,Marc Puig,Visión Nueva (Girona),Cataluña,9,548.9
+2026-03-12,Javier Martín,Visión Azul (Castellón),Levante,6,583.74
+2026-03-12,Javier Martín,Óptica Sol (Alicante),Levante,20,1196.72
+2026-03-13,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,62,4060.08
+2026-03-16,Laura Gómez,Gafas del Mar (Alcalá),Madrid,6,593.57
+2026-03-16,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,20,1519.11
+2026-03-16,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,12,1023.74
+2026-03-16,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,12,1083.25
+2026-03-17,Laura Gómez,Gafas Real (Madrid),Madrid,12,1050.33
+2026-03-17,Marc Puig,Gafas Plaza (Barcelona),Cataluña,8,763.92
+2026-03-17,Javier Martín,Gafas Nueva (Alicante),Levante,12,885.7
+2026-03-17,Javier Martín,Ópticas Prisma (Valencia),Levante,22,1567.17
+2026-03-17,Javier Martín,Centro Óptico Lux (Alicante),Levante,13,1081.58
+2026-03-18,Sofía Ruiz,Óptica Azul (Granada),Andalucía,20,1321.98
+2026-03-18,Javier Martín,Gafas Nueva (Alicante),Levante,3,332.89
+2026-03-19,Laura Gómez,Óptica Norte (Getafe),Madrid,17,1455.02
+2026-03-19,Marc Puig,Gafas Plaza (Barcelona),Cataluña,6,479.27
+2026-03-19,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,14,1332.69
+2026-03-20,Laura Gómez,Visión Central (Madrid),Madrid,5,402.1
+2026-03-20,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,8,800.38
+2026-03-20,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,27,1700.34
+2026-03-23,Laura Gómez,Visión Clara (Getafe),Madrid,10,598.2
+2026-03-24,Laura Gómez,Visión Central (Madrid),Madrid,17,1276.68
+2026-03-24,Laura Gómez,Gafas del Mar (Alcalá),Madrid,14,849.28
+2026-03-24,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,20,1903.72
+2026-03-24,Marc Puig,Visión Nueva (Girona),Cataluña,2,205.87
+2026-03-24,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,10,744.55
+2026-03-24,Sofía Ruiz,Óptica Azul (Granada),Andalucía,15,1434.76
+2026-03-24,Javier Martín,Visión Azul (Castellón),Levante,2,249.07
+2026-03-25,Marc Puig,Óptica Avenida (Girona),Cataluña,7,682.51
+2026-03-26,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,5,447.14
+2026-03-26,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,6,481.44
+2026-03-26,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,7,713.42
+2026-03-26,Javier Martín,Óptica Iris (Castellón),Levante,12,803.07
+2026-03-26,Javier Martín,Óptica Sol (Alicante),Levante,18,1492.63
+2026-03-30,Marc Puig,Ópticas Central (Barcelona),Cataluña,1,70.43
+2026-03-30,Javier Martín,Gafas Nueva (Alicante),Levante,18,1233.08
+2026-03-30,Javier Martín,Óptica Sol (Alicante),Levante,14,1216.27
+2026-03-31,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,12,1110.77
+2026-03-31,Javier Martín,Visión Real (Valencia),Levante,2,143.8
+2026-04-01,Laura Gómez,Visión Central (Madrid),Madrid,4,378.02
+2026-04-01,Javier Martín,Óptica Iris (Castellón),Levante,12,1169.77
+2026-04-02,Marc Puig,Gafas Iris (Sabadell),Cataluña,4,361.27
+2026-04-02,Sofía Ruiz,Gafas Clara (Granada),Andalucía,7,522.47
+2026-04-02,Sofía Ruiz,Óptica Azul (Granada),Andalucía,9,659.17
+2026-04-03,Laura Gómez,Visión Clara (Getafe),Madrid,12,768.87
+2026-04-03,Marc Puig,Óptica Avenida (Girona),Cataluña,3,219.26
+2026-04-06,Laura Gómez,Ópticas Plaza (Madrid),Madrid,13,1157.0
+2026-04-06,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,8,585.88
+2026-04-06,Marc Puig,Visión Norte (Sabadell),Cataluña,12,944.74
+2026-04-06,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,3,221.24
+2026-04-06,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,15,1020.25
+2026-04-06,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,10,792.53
+2026-04-06,Javier Martín,Gafas Faro (Valencia),Levante,7,450.55
+2026-04-07,Laura Gómez,Ópticas Luna (Alcalá),Madrid,20,1531.53
+2026-04-07,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,35,2669.68
+2026-04-07,Laura Gómez,Visión Clara (Getafe),Madrid,5,483.06
+2026-04-07,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,34,1898.48
+2026-04-08,Marc Puig,Ópticas Central (Barcelona),Cataluña,2,211.16
+2026-04-08,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,11,965.88
+2026-04-09,Marc Puig,Gafas Plaza (Barcelona),Cataluña,6,425.71
+2026-04-09,Sofía Ruiz,Gafas Clara (Granada),Andalucía,7,506.63
+2026-04-10,Laura Gómez,Gafas del Mar (Alcalá),Madrid,13,771.9
+2026-04-10,Laura Gómez,Ópticas Plaza (Madrid),Madrid,6,354.54
+2026-04-10,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,1,172.73
+2026-04-10,Marc Puig,Gafas Plaza (Barcelona),Cataluña,5,300.61
+2026-04-10,Marc Puig,Gafas Iris (Sabadell),Cataluña,11,741.48
+2026-04-10,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,3,221.94
+2026-04-13,Laura Gómez,Visión Central (Madrid),Madrid,7,532.96
+2026-04-13,Laura Gómez,Óptica Norte (Getafe),Madrid,18,1509.01
+2026-04-14,Laura Gómez,Óptica Norte (Getafe),Madrid,22,1724.41
+2026-04-14,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,40,2888.64
+2026-04-14,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,13,771.18
+2026-04-15,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,20,1496.05
+2026-04-15,Marc Puig,Óptica Avenida (Girona),Cataluña,13,887.36
+2026-04-17,Marc Puig,Ópticas Clara (Sabadell),Cataluña,17,1277.0
+2026-04-20,Sofía Ruiz,Gafas Clara (Granada),Andalucía,4,405.73
+2026-04-20,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,1,50.97
+2026-04-20,Javier Martín,Centro Óptico Lux (Alicante),Levante,8,716.23
+2026-04-21,Laura Gómez,Visión Central (Madrid),Madrid,4,378.2
+2026-04-21,Laura Gómez,Óptica Norte (Getafe),Madrid,31,2488.66
+2026-04-21,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,8,654.28
+2026-04-22,Laura Gómez,Centro Óptico Mirada (Getafe),Madrid,9,913.91
+2026-04-22,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,25,2420.14
+2026-04-22,Javier Martín,Óptica Iris (Castellón),Levante,37,2462.78
+2026-04-24,Laura Gómez,Óptica Sol (Madrid),Madrid,18,1604.08
+2026-04-24,Laura Gómez,Centro Óptico Mirada (Getafe),Madrid,4,389.13
+2026-04-24,Marc Puig,Óptica Avenida (Girona),Cataluña,5,386.62
+2026-04-24,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,30,1738.15
+2026-04-24,Javier Martín,Centro Óptico Lux (Alicante),Levante,16,1134.76
+2026-04-24,Javier Martín,Ópticas Luna (Castellón),Levante,6,617.85
+2026-04-27,Marc Puig,Ópticas Central (Barcelona),Cataluña,7,554.46
+2026-04-28,Laura Gómez,Gafas del Mar (Alcalá),Madrid,4,328.72
+2026-04-28,Javier Martín,Centro Óptico Lux (Alicante),Levante,3,189.86
+2026-04-28,Javier Martín,Ópticas Luna (Castellón),Levante,3,270.36
+2026-04-29,Laura Gómez,Visión Clara (Getafe),Madrid,3,312.34
+2026-04-29,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,9,513.77
+2026-04-29,Javier Martín,Gafas Faro (Valencia),Levante,4,238.02
+2026-04-30,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,7,627.46
+2026-04-30,Laura Gómez,Gafas Real (Madrid),Madrid,22,1683.52
+2026-04-30,Marc Puig,Visión Norte (Sabadell),Cataluña,11,678.52
+2026-05-01,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,11,1055.6
+2026-05-01,Javier Martín,Óptica Iris (Castellón),Levante,44,2876.62
+2026-05-04,Laura Gómez,Gafas del Mar (Alcalá),Madrid,12,762.47
+2026-05-04,Javier Martín,Ópticas Prisma (Valencia),Levante,11,675.59
+2026-05-04,Javier Martín,Ópticas Luna (Castellón),Levante,7,512.62
+2026-05-05,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,3,244.45
+2026-05-05,Javier Martín,Gafas Faro (Valencia),Levante,5,417.59
+2026-05-06,Laura Gómez,Visión Central (Madrid),Madrid,10,941.01
+2026-05-06,Laura Gómez,Ópticas Plaza (Madrid),Madrid,2,206.31
+2026-05-06,Marc Puig,Óptica Avenida (Girona),Cataluña,4,300.92
+2026-05-06,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,27,1535.94
+2026-05-06,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,3,197.28
+2026-05-06,Sofía Ruiz,Óptica Azul (Granada),Andalucía,4,425.14
+2026-05-07,Laura Gómez,Ópticas Plaza (Madrid),Madrid,20,1289.5
+2026-05-07,Laura Gómez,Visión Clara (Getafe),Madrid,3,340.34
+2026-05-07,Marc Puig,Ópticas Central (Barcelona),Cataluña,2,151.1
+2026-05-08,Laura Gómez,Visión Central (Madrid),Madrid,3,233.5
+2026-05-08,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,39,2755.6
+2026-05-08,Javier Martín,Ópticas Luna (Castellón),Levante,15,1134.71
+2026-05-11,Laura Gómez,Ópticas Plaza (Madrid),Madrid,7,690.46
+2026-05-11,Laura Gómez,Visión Clara (Getafe),Madrid,4,394.26
+2026-05-11,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,12,1105.39
+2026-05-11,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,16,1246.77
+2026-05-11,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,15,1121.84
+2026-05-11,Javier Martín,Óptica Iris (Castellón),Levante,23,2058.47
+2026-05-12,Laura Gómez,Visión Central (Madrid),Madrid,8,594.43
+2026-05-12,Marc Puig,Óptica Prisma (Barcelona),Cataluña,7,438.37
+2026-05-12,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,2,206.98
+2026-05-13,Marc Puig,Visión Norte (Sabadell),Cataluña,5,434.46
+2026-05-13,Javier Martín,Ópticas Luna (Castellón),Levante,12,1051.35
+2026-05-14,Laura Gómez,Ópticas Luna (Alcalá),Madrid,17,1064.75
+2026-05-14,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,24,1405.62
+2026-05-15,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,9,693.22
+2026-05-18,Laura Gómez,Óptica Sol (Madrid),Madrid,26,1507.37
+2026-05-18,Laura Gómez,Centro Óptico Mirada (Getafe),Madrid,10,647.9
+2026-05-18,Laura Gómez,Óptica Norte (Getafe),Madrid,23,1702.84
+2026-05-18,Marc Puig,Gafas Plaza (Barcelona),Cataluña,1,153.49
+2026-05-18,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,35,3031.48
+2026-05-19,Laura Gómez,Visión Central (Madrid),Madrid,9,799.85
+2026-05-20,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,25,1407.9
+2026-05-20,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,14,1322.57
+2026-05-20,Marc Puig,Ópticas Clara (Sabadell),Cataluña,3,281.42
+2026-05-20,Javier Martín,Gafas Nueva (Alicante),Levante,13,1021.36
+2026-05-21,Laura Gómez,Óptica Sol (Madrid),Madrid,7,621.53
+2026-05-21,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,61,4233.69
+2026-05-21,Sofía Ruiz,Óptica Azul (Granada),Andalucía,13,1139.02
+2026-05-22,Laura Gómez,Gafas del Mar (Alcalá),Madrid,2,257.56
+2026-05-22,Laura Gómez,Gafas Real (Madrid),Madrid,9,908.36
+2026-05-22,Javier Martín,Gafas Nueva (Alicante),Levante,15,1075.99
+2026-05-22,Javier Martín,Centro Óptico Lux (Alicante),Levante,22,1618.64
+2026-05-25,Laura Gómez,Gafas del Mar (Alcalá),Madrid,16,1157.78
+2026-05-25,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,33,1865.93
+2026-05-25,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,7,453.25
+2026-05-26,Marc Puig,Ópticas Central (Barcelona),Cataluña,19,1247.78
+2026-05-27,Laura Gómez,Visión Clara (Getafe),Madrid,4,274.84
+2026-05-27,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,24,1404.49
+2026-05-27,Javier Martín,Centro Óptico Mirada (Valencia),Levante,14,1202.29
+2026-05-28,Sofía Ruiz,Visión Avenida (Málaga),Andalucía,5,308.06
+2026-05-28,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,7,647.37
+2026-05-28,Javier Martín,Óptica Iris (Castellón),Levante,11,669.95
+2026-05-28,Javier Martín,Ópticas Luna (Castellón),Levante,14,1112.07
+2026-05-28,Javier Martín,Centro Óptico Mirada (Valencia),Levante,12,874.94
+2026-05-29,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,53,3119.05
+2026-05-29,Marc Puig,Visión Norte (Sabadell),Cataluña,10,861.44
+2026-05-29,Marc Puig,Ópticas Clara (Sabadell),Cataluña,5,473.65
+2026-05-29,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,27,1551.76
+2026-05-29,Javier Martín,Visión Real (Valencia),Levante,1,146.6
+2026-06-01,Laura Gómez,Gafas del Mar (Alcalá),Madrid,10,884.98
+2026-06-01,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,7,580.06
+2026-06-01,Marc Puig,Gafas Iris (Sabadell),Cataluña,2,217.67
+2026-06-01,Sofía Ruiz,Gafas Clara (Granada),Andalucía,6,457.16
+2026-06-01,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,24,1445.1
+2026-06-01,Javier Martín,Ópticas Prisma (Valencia),Levante,32,1875.36
+2026-06-02,Marc Puig,Ópticas Central (Barcelona),Cataluña,5,330.42
+2026-06-02,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,10,766.29
+2026-06-02,Sofía Ruiz,Óptica Azul (Granada),Andalucía,13,1236.82
+2026-06-02,Javier Martín,Ópticas Luna (Castellón),Levante,25,1988.48
+2026-06-03,Laura Gómez,Visión Central (Madrid),Madrid,27,1727.79
+2026-06-03,Laura Gómez,Ópticas Plaza (Madrid),Madrid,7,627.69
+2026-06-03,Marc Puig,Gafas Iris (Sabadell),Cataluña,2,220.71
+2026-06-03,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,30,2008.56
+2026-06-03,Javier Martín,Óptica Iris (Castellón),Levante,11,938.33
+2026-06-05,Laura Gómez,Gafas Real (Madrid),Madrid,1,88.23
+2026-06-08,Marc Puig,Ópticas Clara (Sabadell),Cataluña,5,389.37
+2026-06-08,Marc Puig,Visión Nueva (Girona),Cataluña,4,354.53
+2026-06-08,Marc Puig,Gafas Iris (Sabadell),Cataluña,8,618.21
+2026-06-08,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,4,374.29
+2026-06-08,Javier Martín,Óptica Iris (Castellón),Levante,12,723.29
+2026-06-08,Javier Martín,Centro Óptico Lux (Alicante),Levante,16,1078.79
+2026-06-09,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,9,879.98
+2026-06-10,Marc Puig,Visión Nueva (Girona),Cataluña,5,325.15
+2026-06-11,Laura Gómez,Óptica Sol (Madrid),Madrid,17,1572.65
+2026-06-11,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,16,1158.34
+2026-06-12,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,9,749.61
+2026-06-15,Laura Gómez,Gafas del Mar (Alcalá),Madrid,13,753.88
+2026-06-15,Laura Gómez,Ópticas Plaza (Madrid),Madrid,25,2244.71
+2026-06-15,Marc Puig,Gafas Plaza (Barcelona),Cataluña,8,509.34
+2026-06-15,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,1,167.73
+2026-06-15,Javier Martín,Óptica Iris (Castellón),Levante,9,654.08
+2026-06-16,Marc Puig,Óptica Avenida (Girona),Cataluña,14,913.02
+2026-06-16,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,21,1711.39
+2026-06-17,Marc Puig,Ópticas Central (Barcelona),Cataluña,4,285.22
+2026-06-17,Marc Puig,Óptica Prisma (Barcelona),Cataluña,5,434.07
+2026-06-17,Sofía Ruiz,Óptica Azul (Granada),Andalucía,21,1664.43
+2026-06-17,Javier Martín,Gafas Nueva (Alicante),Levante,3,244.14
+2026-06-18,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,18,1469.5
+2026-06-18,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,35,2300.3
+2026-06-18,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,26,1566.71
+2026-06-18,Javier Martín,Gafas Nueva (Alicante),Levante,1,145.33
+2026-06-18,Javier Martín,Ópticas Prisma (Valencia),Levante,11,942.06
+2026-06-19,Laura Gómez,Visión Central (Madrid),Madrid,18,1066.74
+2026-06-19,Laura Gómez,Ópticas Plaza (Madrid),Madrid,23,2096.33
+2026-06-19,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,1,88.16
+2026-06-19,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,14,1276.22
+2026-06-19,Javier Martín,Visión Real (Valencia),Levante,2,195.47
+2026-06-22,Laura Gómez,Óptica Norte (Getafe),Madrid,33,2097.17
+2026-06-22,Javier Martín,Gafas Nueva (Alicante),Levante,10,781.26
+2026-06-23,Laura Gómez,Visión Clara (Getafe),Madrid,6,450.98
+2026-06-23,Laura Gómez,Gafas Real (Madrid),Madrid,5,435.76
+2026-06-23,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,26,1462.02
+2026-06-23,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,12,1142.44
+2026-06-23,Javier Martín,Visión Real (Valencia),Levante,2,197.63
+2026-06-23,Javier Martín,Ópticas Luna (Castellón),Levante,11,659.13
+2026-06-24,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,17,1018.5
+2026-06-25,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,1,74.55
+2026-06-25,Marc Puig,Visión Norte (Sabadell),Cataluña,14,1083.66
+2026-06-25,Marc Puig,Óptica Avenida (Girona),Cataluña,17,949.61
+2026-06-25,Marc Puig,Ópticas Clara (Sabadell),Cataluña,7,654.47
+2026-06-25,Sofía Ruiz,Gafas Clara (Granada),Andalucía,5,393.84
+2026-06-25,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,3,308.65
+2026-06-26,Laura Gómez,Gafas del Mar (Alcalá),Madrid,10,666.41
+2026-06-26,Laura Gómez,Ópticas Plaza (Madrid),Madrid,6,508.63
+2026-06-26,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,4,326.48
+2026-06-29,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,18,1727.97
+2026-06-29,Javier Martín,Gafas Nueva (Alicante),Levante,11,709.64
+2026-06-29,Javier Martín,Óptica Sol (Alicante),Levante,17,1478.4
+2026-06-30,Marc Puig,Gafas Iris (Sabadell),Cataluña,1,163.68
+2026-06-30,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,30,1698.12
+2026-07-01,Marc Puig,Óptica Prisma (Barcelona),Cataluña,5,503.14
+2026-07-01,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,11,769.88
+2026-07-02,Marc Puig,Óptica Prisma (Barcelona),Cataluña,2,158.9
+2026-07-03,Laura Gómez,Gafas del Mar (Alcalá),Madrid,18,1031.69
+2026-07-03,Marc Puig,Óptica Prisma (Barcelona),Cataluña,10,731.87
+2026-07-03,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,7,641.05
+2026-07-06,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,7,551.95
+2026-07-06,Marc Puig,Ópticas Clara (Sabadell),Cataluña,3,230.0
+2026-07-06,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,14,1097.52
+2026-07-06,Javier Martín,Visión Real (Valencia),Levante,3,230.93
+2026-07-07,Marc Puig,Ópticas Central (Barcelona),Cataluña,1,92.7
+2026-07-07,Javier Martín,Ópticas Luna (Castellón),Levante,1,97.34
+2026-07-08,Marc Puig,Visión Nueva (Girona),Cataluña,3,258.58
+2026-07-09,Javier Martín,Visión Azul (Castellón),Levante,4,309.79
+2026-07-10,Laura Gómez,Óptica Sol (Madrid),Madrid,5,482.11
+2026-07-10,Laura Gómez,Visión Central (Madrid),Madrid,12,733.27
+2026-07-10,Sofía Ruiz,Óptica Azul (Granada),Andalucía,12,943.65
+2026-07-13,Laura Gómez,Ópticas Plaza (Madrid),Madrid,14,907.58
+2026-07-13,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,12,850.82
+2026-07-13,Sofía Ruiz,Óptica Azul (Granada),Andalucía,20,1335.7
+2026-07-14,Laura Gómez,Visión Central (Madrid),Madrid,8,467.88
+2026-07-14,Marc Puig,Óptica Prisma (Barcelona),Cataluña,3,213.3
+2026-07-15,Laura Gómez,Óptica Norte (Getafe),Madrid,4,271.2
+2026-07-15,Marc Puig,Ópticas Central (Barcelona),Cataluña,10,645.64
+2026-07-15,Marc Puig,Ópticas Clara (Sabadell),Cataluña,3,309.64
+2026-07-15,Marc Puig,Visión Nueva (Girona),Cataluña,1,140.15
+2026-07-15,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,29,2650.03
+2026-07-15,Javier Martín,Ópticas Prisma (Valencia),Levante,4,397.09
+2026-07-16,Marc Puig,Visión Norte (Sabadell),Cataluña,6,383.57
+2026-07-16,Sofía Ruiz,Gafas Clara (Granada),Andalucía,4,237.47
+2026-07-16,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,5,302.27
+2026-07-17,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,7,663.31
+2026-07-17,Sofía Ruiz,Óptica Azul (Granada),Andalucía,12,1186.96
+2026-07-20,Laura Gómez,Óptica Norte (Getafe),Madrid,11,871.08
+2026-07-20,Laura Gómez,Ópticas Plaza (Madrid),Madrid,9,638.68
+2026-07-20,Marc Puig,Gafas Plaza (Barcelona),Cataluña,5,497.58
+2026-07-20,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,34,2774.32
+2026-07-21,Laura Gómez,Gafas del Mar (Alcalá),Madrid,5,429.46
+2026-07-21,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,1,157.88
+2026-07-21,Laura Gómez,Gafas Real (Madrid),Madrid,3,253.29
+2026-07-21,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,5,433.25
+2026-07-21,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,23,1336.27
+2026-07-21,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,7,516.74
+2026-07-22,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,15,1253.42
+2026-07-22,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,9,720.67
+2026-07-22,Sofía Ruiz,Óptica Azul (Granada),Andalucía,6,471.54
+2026-07-23,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,11,935.71
+2026-07-23,Javier Martín,Óptica Iris (Castellón),Levante,3,271.1
+2026-07-24,Laura Gómez,Óptica Norte (Getafe),Madrid,11,741.38
+2026-07-24,Laura Gómez,Ópticas Plaza (Madrid),Madrid,36,2423.83
+2026-07-24,Marc Puig,Gafas Plaza (Barcelona),Cataluña,3,233.01
+2026-07-24,Marc Puig,Óptica Prisma (Barcelona),Cataluña,2,147.66
+2026-07-24,Sofía Ruiz,Óptica Azul (Granada),Andalucía,5,445.02
+2026-07-24,Javier Martín,Visión Real (Valencia),Levante,2,229.61
+2026-07-27,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,2,188.72
+2026-07-27,Javier Martín,Óptica Sol (Alicante),Levante,7,580.13
+2026-07-28,Laura Gómez,Visión Clara (Getafe),Madrid,1,91.69
+2026-07-28,Laura Gómez,Gafas Real (Madrid),Madrid,3,219.43
+2026-07-28,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,2,168.65
+2026-07-28,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,8,562.79
+2026-07-28,Marc Puig,Visión Nueva (Girona),Cataluña,5,426.67
+2026-07-28,Sofía Ruiz,Ópticas Nueva (Málaga),Andalucía,3,230.17
+2026-07-28,Javier Martín,Ópticas Prisma (Valencia),Levante,12,832.11
+2026-07-28,Javier Martín,Centro Óptico Lux (Alicante),Levante,14,1035.06
+2026-07-30,Laura Gómez,Gafas del Mar (Alcalá),Madrid,2,263.11
+2026-07-30,Laura Gómez,Ópticas Plaza (Madrid),Madrid,5,456.54
+2026-07-30,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,11,628.1
+2026-07-30,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,10,696.94
+2026-07-30,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,14,1117.93
+2026-07-30,Javier Martín,Óptica Iris (Castellón),Levante,20,1162.35
+2026-07-31,Javier Martín,Gafas Nueva (Alicante),Levante,5,352.66
+2026-08-03,Marc Puig,Visión Norte (Sabadell),Cataluña,4,304.67
+2026-08-03,Marc Puig,Óptica Avenida (Girona),Cataluña,3,235.73
+2026-08-03,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,9,677.89
+2026-08-04,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,13,885.54
+2026-08-04,Javier Martín,Óptica Iris (Castellón),Levante,6,594.42
+2026-08-05,Laura Gómez,Visión Clara (Getafe),Madrid,1,115.4
+2026-08-05,Marc Puig,Ópticas Central (Barcelona),Cataluña,4,410.74
+2026-08-05,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,1,52.88
+2026-08-05,Marc Puig,Óptica Avenida (Girona),Cataluña,4,253.16
+2026-08-05,Marc Puig,Óptica Prisma (Barcelona),Cataluña,2,219.21
+2026-08-05,Javier Martín,Ópticas Luna (Castellón),Levante,5,392.67
+2026-08-06,Marc Puig,Visión Nueva (Girona),Cataluña,1,62.09
+2026-08-07,Marc Puig,Óptica Avenida (Girona),Cataluña,1,94.3
+2026-08-07,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,8,745.47
+2026-08-07,Javier Martín,Gafas Faro (Valencia),Levante,2,208.71
+2026-08-10,Laura Gómez,Óptica Sol (Madrid),Madrid,13,1138.87
+2026-08-10,Marc Puig,Gafas Iris (Sabadell),Cataluña,1,112.31
+2026-08-10,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,9,548.01
+2026-08-10,Javier Martín,Visión Azul (Castellón),Levante,1,71.59
+2026-08-10,Javier Martín,Óptica Sol (Alicante),Levante,5,404.25
+2026-08-11,Marc Puig,Visión Norte (Sabadell),Cataluña,11,659.1
+2026-08-11,Sofía Ruiz,Óptica Azul (Granada),Andalucía,4,328.53
+2026-08-11,Javier Martín,Centro Óptico Lux (Alicante),Levante,3,276.96
+2026-08-12,Laura Gómez,Óptica Sol (Madrid),Madrid,4,300.89
+2026-08-12,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,2,210.89
+2026-08-12,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,3,219.91
+2026-08-12,Javier Martín,Gafas Nueva (Alicante),Levante,1,76.79
+2026-08-12,Javier Martín,Ópticas Prisma (Valencia),Levante,1,37.5
+2026-08-13,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,1,109.03
+2026-08-13,Marc Puig,Visión Norte (Sabadell),Cataluña,3,257.61
+2026-08-13,Javier Martín,Visión Azul (Castellón),Levante,2,244.93
+2026-08-13,Javier Martín,Óptica Sol (Alicante),Levante,4,398.53
+2026-08-14,Marc Puig,Gafas Plaza (Barcelona),Cataluña,6,584.27
+2026-08-14,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,17,1667.94
+2026-08-14,Sofía Ruiz,Óptica Azul (Granada),Andalucía,1,46.68
+2026-08-17,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,3,257.55
+2026-08-17,Marc Puig,Óptica Prisma (Barcelona),Cataluña,2,159.73
+2026-08-18,Laura Gómez,Centro Óptico Mirada (Getafe),Madrid,14,1111.07
+2026-08-18,Laura Gómez,Ópticas Plaza (Madrid),Madrid,2,213.41
+2026-08-18,Marc Puig,Óptica Avenida (Girona),Cataluña,4,349.82
+2026-08-18,Sofía Ruiz,Gafas Clara (Granada),Andalucía,2,196.24
+2026-08-19,Marc Puig,Óptica Avenida (Girona),Cataluña,1,53.53
+2026-08-19,Javier Martín,Gafas Faro (Valencia),Levante,5,407.87
+2026-08-20,Laura Gómez,Óptica Sol (Madrid),Madrid,5,529.84
+2026-08-20,Laura Gómez,Visión Central (Madrid),Madrid,5,475.0
+2026-08-20,Laura Gómez,Óptica Norte (Getafe),Madrid,9,904.52
+2026-08-20,Sofía Ruiz,Visión Avenida (Málaga),Andalucía,1,80.22
+2026-08-21,Laura Gómez,Óptica Sol (Madrid),Madrid,15,1194.75
+2026-08-21,Marc Puig,Ópticas Central (Barcelona),Cataluña,3,310.51
+2026-08-24,Marc Puig,Gafas Plaza (Barcelona),Cataluña,4,308.21
+2026-08-24,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,17,977.53
+2026-08-24,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,18,1150.0
+2026-08-24,Javier Martín,Gafas Nueva (Alicante),Levante,3,241.81
+2026-08-25,Laura Gómez,Ópticas Plaza (Madrid),Madrid,3,196.64
+2026-08-25,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,5,398.95
+2026-08-25,Javier Martín,Visión Real (Valencia),Levante,2,206.99
+2026-08-25,Javier Martín,Gafas Faro (Valencia),Levante,4,325.53
+2026-08-26,Laura Gómez,Visión Central (Madrid),Madrid,4,337.55
+2026-08-26,Marc Puig,Visión Nueva (Girona),Cataluña,2,173.31
+2026-08-26,Sofía Ruiz,Visión Prisma (Sevilla),Andalucía,2,224.08
+2026-08-27,Javier Martín,Ópticas Prisma (Valencia),Levante,27,1517.99
+2026-08-28,Marc Puig,Óptica Avenida (Girona),Cataluña,8,759.05
+2026-08-28,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,11,965.7
+2026-08-28,Javier Martín,Visión Real (Valencia),Levante,2,239.3
+2026-08-31,Laura Gómez,Visión Central (Madrid),Madrid,4,380.7
+2026-08-31,Laura Gómez,Visión Clara (Getafe),Madrid,2,139.39
+2026-08-31,Marc Puig,Ópticas Central (Barcelona),Cataluña,8,488.7
+2026-08-31,Marc Puig,Visión Nueva (Girona),Cataluña,4,349.58
+2026-08-31,Marc Puig,Gafas Iris (Sabadell),Cataluña,9,523.86
+2026-08-31,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,23,1467.35
+2026-08-31,Sofía Ruiz,Visión Avenida (Málaga),Andalucía,5,367.57
+2026-08-31,Sofía Ruiz,Óptica Azul (Granada),Andalucía,7,534.67
+2026-09-01,Laura Gómez,Visión Central (Madrid),Madrid,2,196.1
+2026-09-01,Marc Puig,Visión Nueva (Girona),Cataluña,6,527.97
+2026-09-01,Marc Puig,Óptica Prisma (Barcelona),Cataluña,16,1255.48
+2026-09-01,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,21,1285.23
+2026-09-01,Javier Martín,Visión Real (Valencia),Levante,5,338.78
+2026-09-02,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,8,748.51
+2026-09-02,Sofía Ruiz,Visión Avenida (Málaga),Andalucía,2,198.6
+2026-09-03,Marc Puig,Ópticas Central (Barcelona),Cataluña,2,220.22
+2026-09-03,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,12,756.33
+2026-09-04,Laura Gómez,Gafas del Mar (Alcalá),Madrid,16,1061.28
+2026-09-07,Laura Gómez,Visión Central (Madrid),Madrid,4,428.01
+2026-09-07,Laura Gómez,Visión Clara (Getafe),Madrid,10,824.77
+2026-09-08,Laura Gómez,Gafas Real (Madrid),Madrid,3,264.04
+2026-09-08,Marc Puig,Ópticas Clara (Sabadell),Cataluña,2,245.69
+2026-09-08,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,7,457.84
+2026-09-08,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,7,683.14
+2026-09-08,Javier Martín,Centro Óptico Mirada (Valencia),Levante,17,986.15
+2026-09-09,Laura Gómez,Visión Central (Madrid),Madrid,6,560.94
+2026-09-09,Laura Gómez,Gafas del Mar (Alcalá),Madrid,8,711.75
+2026-09-09,Javier Martín,Visión Real (Valencia),Levante,2,247.12
+2026-09-10,Javier Martín,Óptica Sol (Alicante),Levante,18,1081.17
+2026-09-11,Laura Gómez,Gafas Real (Madrid),Madrid,4,317.13
+2026-09-11,Javier Martín,Óptica Sol (Alicante),Levante,6,474.33
+2026-09-14,Marc Puig,Visión Norte (Sabadell),Cataluña,7,486.81
+2026-09-14,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,4,427.08
+2026-09-14,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,11,952.48
+2026-09-16,Laura Gómez,Ópticas Plaza (Madrid),Madrid,1,89.22
+2026-09-16,Laura Gómez,Gafas Real (Madrid),Madrid,4,296.89
+2026-09-16,Javier Martín,Visión Real (Valencia),Levante,4,295.66
+2026-09-17,Marc Puig,Óptica Prisma (Barcelona),Cataluña,5,382.02
+2026-09-17,Javier Martín,Gafas Nueva (Alicante),Levante,5,413.28
+2026-09-17,Javier Martín,Ópticas Luna (Castellón),Levante,5,470.91
+2026-09-18,Laura Gómez,Visión Central (Madrid),Madrid,20,1830.21
+2026-09-18,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,6,624.31
+2026-09-18,Javier Martín,Ópticas Prisma (Valencia),Levante,12,709.32
+2026-09-21,Laura Gómez,Gafas del Mar (Alcalá),Madrid,4,339.51
+2026-09-21,Laura Gómez,Gafas Real (Madrid),Madrid,3,307.26
+2026-09-21,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,8,560.44
+2026-09-21,Javier Martín,Centro Óptico Mirada (Valencia),Levante,12,1161.5
+2026-09-22,Laura Gómez,Óptica Sol (Madrid),Madrid,3,320.81
+2026-09-22,Laura Gómez,Óptica Norte (Getafe),Madrid,5,304.58
+2026-09-22,Laura Gómez,Ópticas Plaza (Madrid),Madrid,18,1213.78
+2026-09-22,Laura Gómez,Gafas Real (Madrid),Madrid,4,388.74
+2026-09-22,Marc Puig,Ópticas Central (Barcelona),Cataluña,1,98.07
+2026-09-22,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,5,524.66
+2026-09-22,Marc Puig,Visión Norte (Sabadell),Cataluña,4,367.02
+2026-09-22,Marc Puig,Óptica Avenida (Girona),Cataluña,6,493.04
+2026-09-22,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,11,827.34
+2026-09-22,Sofía Ruiz,Gafas Clara (Granada),Andalucía,6,353.79
+2026-09-22,Javier Martín,Ópticas Luna (Castellón),Levante,17,1035.17
+2026-09-23,Laura Gómez,Ópticas Plaza (Madrid),Madrid,9,710.95
+2026-09-23,Javier Martín,Gafas Nueva (Alicante),Levante,4,345.39
+2026-09-23,Javier Martín,Ópticas Prisma (Valencia),Levante,7,604.6
+2026-09-24,Laura Gómez,Ópticas Plaza (Madrid),Madrid,3,296.83
+2026-09-24,Marc Puig,Ópticas Central (Barcelona),Cataluña,11,889.97
+2026-09-24,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,23,2194.0
+2026-09-24,Sofía Ruiz,Ópticas Nueva (Málaga),Andalucía,8,753.86
+2026-09-24,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,9,668.87
+2026-09-24,Javier Martín,Gafas Nueva (Alicante),Levante,17,1001.5
+2026-09-24,Javier Martín,Óptica Iris (Castellón),Levante,14,1135.52
+2026-09-24,Javier Martín,Visión Azul (Castellón),Levante,4,299.01
+2026-09-25,Laura Gómez,Visión Clara (Getafe),Madrid,1,152.21
+2026-09-25,Marc Puig,Gafas Iris (Sabadell),Cataluña,3,335.13
+2026-09-28,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,23,1548.1
+2026-09-28,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,13,994.29
+2026-09-29,Marc Puig,Centro Óptico Real (Barcelona),Cataluña,4,386.31
+2026-09-30,Laura Gómez,Gafas del Mar (Alcalá),Madrid,23,1578.21
+2026-09-30,Marc Puig,Óptica Avenida (Girona),Cataluña,4,348.84
+2026-09-30,Marc Puig,Ópticas Clara (Sabadell),Cataluña,4,351.33
+2026-09-30,Sofía Ruiz,Óptica Real (Sevilla),Andalucía,20,1101.74
+2026-10-01,Laura Gómez,Centro Óptico Mirada (Getafe),Madrid,7,574.02
+2026-10-02,Laura Gómez,Ópticas Plaza (Madrid),Madrid,2,192.33
+2026-10-02,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,15,1467.11
+2026-10-02,Marc Puig,Gafas Iris (Sabadell),Cataluña,9,604.47
+2026-10-02,Marc Puig,Óptica Prisma (Barcelona),Cataluña,2,232.01
+2026-10-02,Sofía Ruiz,Centro Óptico Iris (Granada),Andalucía,6,443.28
+2026-10-05,Laura Gómez,Centro Óptico Avenida (Alcalá),Madrid,21,1659.87
+2026-10-05,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,14,1179.56
+2026-10-05,Sofía Ruiz,Gafas Clara (Granada),Andalucía,7,498.22
+2026-10-05,Sofía Ruiz,Óptica Azul (Granada),Andalucía,9,874.31
+2026-10-05,Javier Martín,Visión Real (Valencia),Levante,8,538.47
+2026-10-06,Marc Puig,Visión Norte (Sabadell),Cataluña,10,931.5
+2026-10-06,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,29,2336.5
+2026-10-07,Laura Gómez,Gafas del Mar (Alcalá),Madrid,8,771.69
+2026-10-07,Marc Puig,Óptica Avenida (Girona),Cataluña,1,115.53
+2026-10-07,Sofía Ruiz,Centro Óptico Plaza (Sevilla),Andalucía,11,847.68
+2026-10-07,Sofía Ruiz,Gafas Clara (Granada),Andalucía,5,330.87
+2026-10-07,Javier Martín,Visión Real (Valencia),Levante,2,174.51
+2026-10-08,Laura Gómez,Gafas del Mar (Alcalá),Madrid,17,1082.39
+2026-10-08,Marc Puig,Óptica Prisma (Barcelona),Cataluña,9,538.12
+2026-10-08,Sofía Ruiz,Óptica Azul (Granada),Andalucía,19,1281.43
+2026-10-09,Laura Gómez,Ópticas Plaza (Madrid),Madrid,8,732.66
+2026-10-09,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,6,437.32
+2026-10-12,Marc Puig,Gafas Plaza (Barcelona),Cataluña,4,394.19
+2026-10-12,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,15,1230.75
+2026-10-12,Sofía Ruiz,Ópticas Faro (Sevilla),Andalucía,12,705.2
+2026-10-13,Laura Gómez,Ópticas Plaza (Madrid),Madrid,7,397.12
+2026-10-13,Laura Gómez,Gafas Real (Madrid),Madrid,1,80.0
+2026-10-13,Marc Puig,Centro Óptico del Mar (Girona),Cataluña,4,424.35
+2026-10-14,Laura Gómez,Ópticas Plaza (Madrid),Madrid,11,697.39
+2026-10-14,Sofía Ruiz,Gafas Lux (Málaga),Andalucía,11,635.3
+2026-10-15,Javier Martín,Centro Óptico Mirada (Valencia),Levante,13,1213.4
