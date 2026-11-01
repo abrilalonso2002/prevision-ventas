@@ -1,6 +1,0 @@
-# ¡Nunca subir la clave de la API!
-.streamlit/secrets.toml
-.env
-__pycache__/
-*.pyc
-.venv/
